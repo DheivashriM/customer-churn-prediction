@@ -1,0 +1,1001 @@
+customer_id,gender,age,tenure,contract_type,monthly_charges,total_charges,phone_service,internet_service,streaming_tv,streaming_movies,churned,churn_reason,churn_date
+CUST0001,Male,71,14,Month-to-month,96.01,1339.9,Yes,Fiber optic,No,Yes,Yes,Competitor offered better devices,2024-12-13
+CUST0002,Female,34,33,One year,64.35,2144.43,Yes,DSL,No,No,No,,
+CUST0003,Male,26,36,Two year,85.23,2924.37,Yes,Fiber optic,Yes,Yes,No,,
+CUST0004,Male,50,22,Month-to-month,94.64,2035.21,Yes,Fiber optic,No,Yes,No,,
+CUST0005,Male,70,52,One year,18.47,915.57,No,No,No internet service,No internet service,No,,
+CUST0006,Female,37,17,Month-to-month,79.47,1340.23,Yes,DSL,No,Yes,No,,
+CUST0007,Male,30,41,Two year,85.59,3647.84,No,Fiber optic,Yes,Yes,No,,
+CUST0008,Male,45,26,Two year,61.71,1681.9,Yes,DSL,Yes,Yes,No,,
+CUST0009,Male,65,33,Two year,106.79,3572.37,Yes,Fiber optic,No,Yes,No,,
+CUST0010,Female,46,15,Month-to-month,30.08,435.93,Yes,No,No internet service,No internet service,Yes,Don't know,2024-08-07
+CUST0011,Male,30,43,Two year,71.04,3178.7,Yes,DSL,No,No,No,,
+CUST0012,Male,63,29,Two year,62.67,1820.38,No,DSL,No,Yes,No,,
+CUST0013,Male,52,9,Month-to-month,80.09,695.85,Yes,Fiber optic,Yes,No,Yes,Attitude of support person,2024-07-31
+CUST0014,Male,78,48,Two year,73.41,3672.28,Yes,DSL,Yes,Yes,No,,
+CUST0015,Female,23,22,Month-to-month,82.27,1856.54,Yes,Fiber optic,No,Yes,No,,
+CUST0016,Male,35,56,One year,100.26,5744.65,Yes,Fiber optic,Yes,Yes,No,,
+CUST0017,Female,68,4,Month-to-month,113.27,462.56,Yes,Fiber optic,No,No,Yes,Network reliability,2024-08-09
+CUST0018,Female,22,10,Month-to-month,47.32,459.02,No,DSL,No,No,No,,
+CUST0019,Female,64,15,Month-to-month,73.09,1064.67,Yes,DSL,Yes,Yes,Yes,Don't know,2024-12-15
+CUST0020,Male,42,54,One year,112.13,6169.03,Yes,Fiber optic,No,No,Yes,Competitor offered better devices,2024-08-03
+CUST0021,Female,19,15,Month-to-month,91.18,1329.37,Yes,Fiber optic,Yes,No,Yes,Price too high,2024-11-19
+CUST0022,Male,27,59,One year,30.48,1787.29,Yes,No,No internet service,No internet service,No,,
+CUST0023,Female,73,1,Month-to-month,122.82,126.28,Yes,Fiber optic,No,No,No,,
+CUST0024,Female,47,6,Month-to-month,92.75,572.3,Yes,Fiber optic,No,Yes,No,,
+CUST0025,Female,67,3,Month-to-month,113.21,338.04,Yes,Fiber optic,Yes,Yes,Yes,Attitude of support person,2024-10-20
+CUST0026,Female,76,17,One year,118.93,2080.89,Yes,Fiber optic,Yes,Yes,No,,
+CUST0027,Female,62,5,Month-to-month,100.45,519.26,Yes,Fiber optic,No,Yes,Yes,Attitude of support person,2024-08-31
+CUST0028,Female,22,49,One year,109.22,5434.61,Yes,Fiber optic,No,No,No,,
+CUST0029,Female,72,51,Two year,115.33,5722.09,Yes,Fiber optic,Yes,No,No,,
+CUST0030,Female,73,24,One year,56.4,1323.01,Yes,DSL,No,Yes,No,,
+CUST0031,Male,50,4,Month-to-month,72.82,285.89,Yes,DSL,Yes,Yes,Yes,Competitor offered better devices,2024-08-25
+CUST0032,Male,71,6,Month-to-month,56.76,327.51,Yes,DSL,No,Yes,Yes,Price too high,2024-09-14
+CUST0033,Female,18,70,Two year,93.01,6363.01,Yes,Fiber optic,Yes,No,No,,
+CUST0034,Female,35,10,Month-to-month,95.92,931.34,Yes,Fiber optic,Yes,Yes,No,,
+CUST0035,Female,49,48,Two year,29.51,1410.15,Yes,No,No internet service,No internet service,No,,
+CUST0036,Male,64,5,Month-to-month,67.64,352.01,Yes,DSL,No,Yes,No,,
+CUST0037,Female,66,56,Two year,56.94,3062.52,Yes,DSL,Yes,Yes,No,,
+CUST0038,Male,28,50,One year,61.92,3164.19,No,DSL,No,Yes,No,,
+CUST0039,Male,38,46,Two year,80.6,3777.04,Yes,Fiber optic,No,Yes,No,,
+CUST0040,Male,43,15,Month-to-month,111.23,1601.0,Yes,Fiber optic,Yes,No,Yes,Poor customer service,2024-11-17
+CUST0041,Male,42,28,One year,103.94,3033.3,Yes,Fiber optic,Yes,No,No,,
+CUST0042,Male,39,22,Month-to-month,98.64,2184.94,Yes,Fiber optic,No,Yes,No,,
+CUST0043,Female,76,19,Month-to-month,57.63,1080.05,Yes,DSL,No,Yes,Yes,Competitor offered better devices,2024-12-04
+CUST0044,Female,44,22,One year,64.78,1461.72,Yes,DSL,Yes,Yes,No,,
+CUST0045,Female,66,38,Two year,124.38,4611.76,Yes,Fiber optic,No,No,No,,
+CUST0046,Female,30,56,Two year,111.34,6355.69,Yes,Fiber optic,Yes,Yes,No,,
+CUST0047,Female,50,12,One year,68.67,786.11,Yes,DSL,No,Yes,No,,
+CUST0048,Male,51,16,Month-to-month,32.88,543.94,Yes,No,No internet service,No internet service,No,,
+CUST0049,Female,58,7,Month-to-month,60.16,418.94,Yes,DSL,No,Yes,Yes,Competitor offered better devices,2024-12-25
+CUST0050,Female,52,50,One year,115.67,5862.56,Yes,Fiber optic,Yes,No,Yes,Price too high,2024-08-23
+CUST0051,Male,18,15,Month-to-month,29.55,430.89,Yes,No,No internet service,No internet service,No,,
+CUST0052,Female,38,16,Month-to-month,68.39,1113.62,Yes,DSL,No,Yes,No,,
+CUST0053,Male,65,22,Month-to-month,31.4,709.61,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-07-28
+CUST0054,Female,72,19,Month-to-month,30.83,584.2,Yes,No,No internet service,No internet service,No,,
+CUST0055,Male,23,11,Month-to-month,75.09,835.71,Yes,DSL,No,Yes,No,,
+CUST0056,Female,45,16,Month-to-month,66.98,1067.0,Yes,DSL,No,No,Yes,Don't know,2024-10-14
+CUST0057,Female,34,20,Month-to-month,96.9,2014.37,Yes,Fiber optic,Yes,No,No,,
+CUST0058,Male,22,15,Month-to-month,56.07,840.87,Yes,DSL,Yes,Yes,Yes,Attitude of support person,2024-10-29
+CUST0059,Male,48,63,Two year,66.61,4339.87,Yes,DSL,No,No,No,,
+CUST0060,Male,22,11,Month-to-month,30.65,347.31,Yes,No,No internet service,No internet service,No,,
+CUST0061,Male,55,17,Month-to-month,84.29,1420.11,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-07-21
+CUST0062,Male,20,19,One year,103.45,1912.5,Yes,Fiber optic,No,Yes,No,,
+CUST0063,Male,70,20,Month-to-month,60.51,1198.83,No,DSL,Yes,Yes,No,,
+CUST0064,Male,40,30,Two year,97.58,3022.9,Yes,Fiber optic,Yes,No,No,,
+CUST0065,Male,54,27,One year,109.44,2874.4,Yes,Fiber optic,Yes,Yes,No,,
+CUST0066,Female,70,5,Month-to-month,93.81,470.2,Yes,Fiber optic,No,No,Yes,Attitude of support person,2024-11-08
+CUST0067,Female,54,16,Month-to-month,61.04,1006.53,Yes,DSL,Yes,Yes,Yes,Network reliability,2024-08-16
+CUST0068,Male,27,67,Two year,96.31,6358.22,No,Fiber optic,No,Yes,Yes,Attitude of support person,2024-10-03
+CUST0069,Female,27,46,Two year,92.24,4303.38,Yes,Fiber optic,No,Yes,No,,
+CUST0070,Female,36,15,Month-to-month,90.13,1317.56,Yes,Fiber optic,Yes,No,Yes,Don't know,2024-08-05
+CUST0071,Female,34,57,One year,61.62,3375.11,Yes,DSL,No,Yes,No,,
+CUST0072,Female,38,15,Month-to-month,31.23,482.24,Yes,No,No internet service,No internet service,No,,
+CUST0073,Male,31,47,Two year,64.21,2896.84,Yes,DSL,Yes,No,No,,
+CUST0074,Female,26,1,Month-to-month,98.69,96.43,Yes,Fiber optic,No,No,No,,
+CUST0075,Male,63,38,Two year,110.01,4328.83,Yes,Fiber optic,No,No,No,,
+CUST0076,Female,18,57,One year,20.28,1138.21,No,No,No internet service,No internet service,No,,
+CUST0077,Female,68,51,One year,113.66,6070.87,Yes,Fiber optic,No,No,No,,
+CUST0078,Female,62,6,Month-to-month,63.17,397.2,Yes,DSL,No,No,No,,
+CUST0079,Male,30,10,Month-to-month,69.28,676.75,Yes,DSL,Yes,Yes,Yes,Price too high,2024-09-10
+CUST0080,Female,21,3,Month-to-month,74.59,213.5,Yes,DSL,Yes,Yes,Yes,Poor customer service,2024-11-14
+CUST0081,Male,79,21,Month-to-month,74.11,1588.22,Yes,DSL,No,Yes,No,,
+CUST0082,Female,18,4,Month-to-month,70.49,280.58,Yes,DSL,Yes,No,Yes,Price too high,2024-10-08
+CUST0083,Male,66,21,One year,108.72,2191.97,Yes,Fiber optic,No,Yes,No,,
+CUST0084,Female,57,2,Month-to-month,90.3,184.35,Yes,Fiber optic,Yes,Yes,Yes,Attitude of support person,2024-09-13
+CUST0085,Male,49,2,Month-to-month,50.29,95.86,No,DSL,Yes,Yes,No,,
+CUST0086,Male,51,35,Two year,100.75,3656.79,Yes,Fiber optic,No,Yes,No,,
+CUST0087,Female,45,37,Two year,71.87,2563.1,Yes,DSL,Yes,Yes,No,,
+CUST0088,Male,48,41,Two year,70.79,2794.22,Yes,DSL,Yes,Yes,No,,
+CUST0089,Female,25,48,Two year,87.03,4041.95,Yes,Fiber optic,No,No,No,,
+CUST0090,Female,56,4,Month-to-month,81.91,342.72,Yes,Fiber optic,No,No,Yes,Competitor offered better devices,2024-09-30
+CUST0091,Female,43,14,Month-to-month,74.48,1062.86,Yes,DSL,No,No,No,,
+CUST0092,Female,75,54,One year,100.86,5610.58,No,Fiber optic,No,No,No,,
+CUST0093,Female,51,39,One year,86.92,3355.18,Yes,Fiber optic,No,Yes,No,,
+CUST0094,Female,71,6,Month-to-month,103.33,609.83,No,Fiber optic,No,No,Yes,Attitude of support person,2024-08-04
+CUST0095,Female,71,43,Two year,57.11,2390.53,Yes,DSL,No,No,No,,
+CUST0096,Female,20,20,Month-to-month,69.92,1395.69,Yes,DSL,No,No,No,,
+CUST0097,Female,76,15,Month-to-month,116.0,1749.02,Yes,Fiber optic,Yes,Yes,No,,
+CUST0098,Female,67,9,Month-to-month,28.21,,Yes,No,No internet service,No internet service,No,,
+CUST0099,Female,29,58,One year,122.33,6922.81,Yes,Fiber optic,Yes,No,No,,
+CUST0100,Male,18,57,One year,79.38,4727.66,Yes,DSL,Yes,Yes,No,,
+CUST0101,Male,71,10,Month-to-month,28.6,276.56,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-10-22
+CUST0102,Female,61,67,Two year,56.38,3953.36,Yes,DSL,Yes,No,No,,
+CUST0103,Female,22,20,Month-to-month,124.34,2366.15,Yes,Fiber optic,No,Yes,Yes,Don't know,2024-11-06
+CUST0104,Female,47,23,Month-to-month,93.47,2145.75,Yes,Fiber optic,No,No,Yes,Don't know,2024-08-16
+CUST0105,Female,47,62,Two year,93.61,5707.11,Yes,Fiber optic,No,Yes,No,,
+CUST0106,Female,76,49,Two year,29.03,1415.23,Yes,No,No internet service,No internet service,No,,
+CUST0107,Female,74,47,Two year,57.11,2703.14,No,DSL,Yes,No,No,,
+CUST0108,Female,34,51,Two year,101.53,5144.68,Yes,Fiber optic,No,Yes,No,,
+CUST0109,Female,65,57,One year,49.36,2789.56,No,DSL,No,No,No,,
+CUST0110,Male,64,12,One year,117.01,1436.8,Yes,Fiber optic,Yes,No,Yes,Competitor made better offer,2024-12-23
+CUST0111,Female,40,22,Month-to-month,110.02,2465.43,Yes,Fiber optic,No,No,No,,
+CUST0112,Male,32,15,Month-to-month,58.16,901.47,Yes,DSL,Yes,Yes,No,,
+CUST0113,Female,54,9,Month-to-month,28.11,246.66,Yes,No,No internet service,No internet service,No,,
+CUST0114,Female,38,13,Month-to-month,101.74,1337.11,Yes,Fiber optic,Yes,No,No,,
+CUST0115,Male,31,18,One year,58.08,1054.35,Yes,DSL,No,No,No,,
+CUST0116,Female,19,8,Month-to-month,59.39,468.93,Yes,DSL,Yes,Yes,No,,
+CUST0117,Male,28,14,Month-to-month,104.87,1466.13,Yes,Fiber optic,No,No,Yes,Attitude of support person,2024-07-19
+CUST0118,Female,68,21,Month-to-month,59.57,1227.67,Yes,DSL,No,Yes,No,,
+CUST0119,Female,56,33,One year,105.14,3345.35,Yes,Fiber optic,No,No,No,,
+CUST0120,Male,55,6,Month-to-month,96.53,562.6,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-11-03
+CUST0121,Female,77,54,Two year,124.48,6456.75,Yes,Fiber optic,Yes,No,Yes,Poor customer service,2024-10-09
+CUST0122,Male,51,7,Month-to-month,108.06,770.27,Yes,Fiber optic,No,Yes,No,,
+CUST0123,Female,55,17,Month-to-month,86.84,1500.01,Yes,Fiber optic,Yes,Yes,Yes,Poor customer service,2024-12-15
+CUST0124,Male,67,35,One year,81.8,2992.01,Yes,Fiber optic,No,Yes,No,,
+CUST0125,Male,51,31,Two year,33.5,1062.35,Yes,No,No internet service,No internet service,No,,
+CUST0126,Female,35,5,Month-to-month,86.95,415.28,Yes,Fiber optic,Yes,Yes,Yes,Competitor made better offer,2024-08-09
+CUST0127,Female,47,41,One year,33.39,1421.59,Yes,No,No internet service,No internet service,No,,
+CUST0128,Male,32,41,One year,114.33,4857.54,Yes,Fiber optic,Yes,Yes,Yes,Competitor offered better devices,2024-07-17
+CUST0129,Female,44,19,Month-to-month,102.94,1944.77,Yes,Fiber optic,Yes,No,Yes,Poor customer service,2024-08-26
+CUST0130,Female,68,53,Two year,117.76,6294.87,Yes,Fiber optic,No,Yes,No,,
+CUST0131,Female,51,46,One year,95.12,4583.83,Yes,Fiber optic,No,Yes,No,,
+CUST0132,Male,69,56,One year,62.03,3484.9,Yes,DSL,Yes,No,No,,
+CUST0133,Male,74,24,Two year,82.5,2060.25,Yes,Fiber optic,No,No,No,,
+CUST0134,Male,55,54,Two year,110.48,5717.16,Yes,Fiber optic,No,No,No,,
+CUST0135,Male,50,34,One year,30.56,1006.94,Yes,No,No internet service,No internet service,No,,
+CUST0136,Male,41,68,Two year,31.67,2140.8,Yes,No,No internet service,No internet service,No,,
+CUST0137,Male,32,46,One year,94.95,4404.72,Yes,Fiber optic,No,Yes,No,,
+CUST0138,Male,77,51,One year,29.86,1571.02,Yes,No,No internet service,No internet service,No,,
+CUST0139,Male,47,30,One year,70.49,2217.95,Yes,DSL,No,No,No,,
+CUST0140,Male,72,15,One year,95.29,1413.46,Yes,Fiber optic,Yes,Yes,No,,
+CUST0141,Female,59,17,Month-to-month,124.55,2021.52,Yes,Fiber optic,Yes,No,Yes,Attitude of support person,2024-09-19
+CUST0142,Male,68,51,Two year,75.86,3985.38,Yes,DSL,No,No,No,,
+CUST0143,Female,34,31,Two year,31.17,976.36,Yes,No,No internet service,No internet service,No,,
+CUST0144,Female,22,9,Month-to-month,61.82,539.61,Yes,DSL,No,No,Yes,Price too high,2024-12-07
+CUST0145,Female,46,57,Two year,56.5,3218.83,Yes,DSL,No,No,No,,
+CUST0146,Male,21,20,Month-to-month,120.7,2472.49,Yes,Fiber optic,No,Yes,No,,
+CUST0147,Male,27,16,Month-to-month,118.92,1954.17,Yes,Fiber optic,Yes,No,Yes,Poor customer service,2024-07-23
+CUST0148,Male,73,34,One year,34.27,1165.14,Yes,No,No internet service,No internet service,No,,
+CUST0149,Male,34,23,Month-to-month,66.0,1488.43,Yes,DSL,No,Yes,No,,
+CUST0150,Female,27,26,Two year,65.77,1791.03,No,DSL,Yes,No,No,,
+CUST0151,Male,34,56,Two year,78.75,4482.04,Yes,DSL,Yes,Yes,No,,
+CUST0152,Male,77,15,Month-to-month,85.25,1267.02,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-09-16
+CUST0153,Male,37,16,Month-to-month,69.54,1088.21,Yes,DSL,Yes,No,Yes,Attitude of support person,2024-09-19
+CUST0154,Male,41,23,Month-to-month,105.23,2476.22,Yes,Fiber optic,No,No,No,,
+CUST0155,Male,22,19,One year,33.61,622.13,Yes,No,No internet service,No internet service,Yes,Price too high,2024-11-07
+CUST0156,Female,51,60,Two year,60.37,3503.29,Yes,DSL,Yes,No,No,,
+CUST0157,Male,23,59,One year,107.76,6376.81,Yes,Fiber optic,No,No,No,,
+CUST0158,Female,70,12,Month-to-month,69.2,812.96,Yes,DSL,No,Yes,Yes,Price too high,2024-08-29
+CUST0159,Male,19,39,One year,29.82,1177.97,Yes,No,No internet service,No internet service,No,,
+CUST0160,Female,30,21,Month-to-month,57.89,1169.24,Yes,DSL,No,Yes,Yes,Competitor offered better devices,2024-12-10
+CUST0161,Male,79,51,One year,32.02,1658.32,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-07-15
+CUST0162,Male,60,21,Month-to-month,120.31,2471.76,Yes,Fiber optic,No,No,No,,
+CUST0163,Female,60,58,One year,58.9,3245.47,Yes,DSL,No,No,No,,
+CUST0164,Female,65,16,Month-to-month,89.96,1385.66,Yes,Fiber optic,No,Yes,Yes,Price too high,2024-08-11
+CUST0165,Female,28,50,Two year,89.19,4652.87,Yes,Fiber optic,Yes,Yes,Yes,Price too high,2024-11-04
+CUST0166,Male,68,17,Month-to-month,122.17,2153.19,Yes,Fiber optic,No,No,Yes,Network reliability,2024-11-03
+CUST0167,Female,64,29,One year,76.12,2148.67,Yes,DSL,Yes,No,No,,
+CUST0168,Male,74,67,Two year,78.46,5403.16,Yes,DSL,Yes,Yes,No,,
+CUST0169,Male,40,17,Month-to-month,110.66,1901.64,Yes,Fiber optic,No,No,No,,
+CUST0170,Female,72,67,Two year,22.28,1563.05,No,No,No internet service,No internet service,No,,
+CUST0171,Female,33,54,One year,31.11,1658.71,Yes,No,No internet service,No internet service,No,,
+CUST0172,Male,48,6,Month-to-month,83.15,507.95,Yes,Fiber optic,No,Yes,Yes,Don't know,2024-11-22
+CUST0173,Male,28,16,Month-to-month,28.29,432.88,Yes,No,No internet service,No internet service,Yes,Don't know,2024-09-27
+CUST0174,Female,71,56,One year,94.3,5226.01,Yes,Fiber optic,Yes,No,No,,
+CUST0175,Female,33,9,Month-to-month,56.26,529.82,Yes,DSL,No,No,No,,
+CUST0176,Female,25,50,One year,88.14,4424.18,No,Fiber optic,Yes,No,No,,
+CUST0177,Male,21,18,Month-to-month,64.96,1144.48,Yes,DSL,Yes,Yes,Yes,Network reliability,2024-07-12
+CUST0178,Male,57,34,One year,31.78,1039.49,Yes,No,No internet service,No internet service,No,,
+CUST0179,Male,21,14,Month-to-month,67.51,964.38,Yes,DSL,Yes,Yes,Yes,Poor customer service,2024-07-17
+CUST0180,Male,73,55,Two year,60.38,3369.01,Yes,DSL,No,No,No,,
+CUST0181,Male,42,26,Two year,32.99,846.93,Yes,No,No internet service,No internet service,No,,
+CUST0182,Male,20,27,Two year,76.43,2156.67,Yes,DSL,Yes,Yes,No,,
+CUST0183,Female,49,46,One year,30.8,1349.11,Yes,No,No internet service,No internet service,No,,
+CUST0184,Male,20,11,Month-to-month,124.89,1346.83,Yes,Fiber optic,No,Yes,Yes,Network reliability,2024-12-14
+CUST0185,Male,44,52,One year,67.18,3640.45,No,DSL,No,Yes,No,,
+CUST0186,Male,46,20,Month-to-month,87.21,1712.97,Yes,Fiber optic,No,Yes,Yes,Poor customer service,2024-12-07
+CUST0187,Female,49,10,Month-to-month,28.59,278.82,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-08-27
+CUST0188,Male,67,9,Month-to-month,63.39,572.46,Yes,DSL,Yes,No,Yes,Attitude of support person,2024-12-21
+CUST0189,Male,78,21,Month-to-month,34.82,754.9,Yes,No,No internet service,No internet service,Yes,Network reliability,2024-10-29
+CUST0190,Female,75,13,One year,20.94,261.42,No,No,No internet service,No internet service,Yes,Attitude of support person,2024-12-16
+CUST0191,Male,68,29,One year,33.12,1003.03,Yes,No,No internet service,No internet service,No,,
+CUST0192,Male,36,12,Month-to-month,72.44,894.93,Yes,DSL,Yes,No,Yes,Don't know,2024-08-24
+CUST0193,Male,38,15,Month-to-month,64.37,934.77,Yes,DSL,Yes,Yes,No,,
+CUST0194,Male,22,63,Two year,49.08,3157.59,No,DSL,Yes,No,No,,
+CUST0195,Male,35,17,Month-to-month,78.26,1315.11,Yes,DSL,Yes,No,Yes,Don't know,2024-09-05
+CUST0196,Female,45,15,Month-to-month,28.58,424.51,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-10-22
+CUST0197,Female,59,13,Month-to-month,33.31,445.3,Yes,No,No internet service,No internet service,No,,
+CUST0198,Female,78,26,One year,77.26,2101.72,No,Fiber optic,No,No,No,,
+CUST0199,Male,39,48,One year,86.72,4007.15,Yes,Fiber optic,No,Yes,No,,
+CUST0200,Male,38,4,Month-to-month,87.71,348.06,Yes,Fiber optic,No,No,No,,
+CUST0201,Male,23,13,Month-to-month,61.16,793.56,Yes,DSL,No,Yes,No,,
+CUST0202,Female,18,47,One year,34.27,1590.77,Yes,No,No internet service,No internet service,No,,
+CUST0203,Male,22,50,One year,76.88,3791.41,Yes,DSL,No,No,No,,
+CUST0204,Male,58,20,Month-to-month,97.86,1869.57,Yes,Fiber optic,No,No,Yes,Network reliability,2024-10-18
+CUST0205,Female,29,60,Two year,79.74,4873.17,Yes,DSL,No,Yes,Yes,Competitor offered better devices,2024-09-17
+CUST0206,Male,43,7,Month-to-month,63.8,443.75,Yes,DSL,No,No,No,,
+CUST0207,Female,63,21,Month-to-month,30.03,611.38,Yes,No,No internet service,No internet service,No,,
+CUST0208,Female,51,25,Two year,107.84,2781.2,Yes,Fiber optic,No,No,No,,
+CUST0209,Female,66,16,Month-to-month,99.33,1637.37,Yes,Fiber optic,Yes,Yes,Yes,Attitude of support person,2024-09-04
+CUST0210,Male,31,32,One year,116.83,3733.47,Yes,Fiber optic,No,Yes,Yes,Competitor offered better devices,2024-10-01
+CUST0211,Male,43,1,Month-to-month,115.62,113.29,Yes,Fiber optic,Yes,No,Yes,Don't know,2024-09-15
+CUST0212,Male,62,19,Month-to-month,71.85,1384.0,Yes,DSL,No,No,No,,
+CUST0213,Male,44,35,Two year,78.6,2692.72,Yes,DSL,Yes,Yes,No,,
+CUST0214,Male,26,2,Month-to-month,92.42,179.96,Yes,Fiber optic,No,No,No,,
+CUST0215,Male,43,33,Two year,108.14,3650.88,Yes,Fiber optic,No,Yes,No,,
+CUST0216,Male,74,10,Month-to-month,60.31,575.38,Yes,DSL,No,No,Yes,Competitor made better offer,2024-09-16
+CUST0217,Female,64,9,Month-to-month,19.28,166.49,No,No,No internet service,No internet service,No,,
+CUST0218,Male,74,12,Month-to-month,55.34,631.33,Yes,DSL,No,No,Yes,Competitor made better offer,2024-07-09
+CUST0219,Female,39,31,One year,110.28,3300.03,Yes,Fiber optic,No,Yes,No,,
+CUST0220,Male,64,22,Month-to-month,79.13,1665.83,Yes,DSL,Yes,Yes,Yes,Don't know,2024-09-22
+CUST0221,Male,73,51,Two year,64.07,3429.58,Yes,DSL,Yes,No,No,,
+CUST0222,Male,47,5,Month-to-month,121.28,593.59,Yes,Fiber optic,No,No,Yes,Network reliability,2024-11-26
+CUST0223,Female,60,68,Two year,72.45,4753.81,Yes,DSL,No,Yes,No,,
+CUST0224,Female,65,1,Month-to-month,32.3,31.46,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-09-14
+CUST0225,Female,78,39,Two year,70.84,2883.25,Yes,DSL,No,Yes,No,,
+CUST0226,Female,34,42,One year,77.57,3264.51,Yes,DSL,No,No,No,,
+CUST0227,Male,43,18,One year,78.11,1386.97,Yes,DSL,Yes,No,No,,
+CUST0228,Female,53,67,Two year,88.09,,No,Fiber optic,Yes,Yes,No,,
+CUST0229,Male,18,25,One year,72.8,1800.89,Yes,DSL,Yes,Yes,No,,
+CUST0230,Male,25,30,One year,75.38,2224.09,Yes,DSL,No,Yes,No,,
+CUST0231,Female,66,20,Month-to-month,83.83,1627.52,Yes,Fiber optic,Yes,Yes,Yes,Network reliability,2024-07-12
+CUST0232,Female,52,5,Month-to-month,84.27,416.2,Yes,Fiber optic,Yes,No,Yes,Poor customer service,2024-09-27
+CUST0233,Female,78,34,Two year,34.84,1162.85,Yes,No,No internet service,No internet service,No,,
+CUST0234,Female,69,37,One year,66.6,2507.89,Yes,DSL,No,No,No,,
+CUST0235,Female,32,58,One year,76.49,4343.07,Yes,DSL,No,Yes,No,,
+CUST0236,Female,64,16,Month-to-month,48.21,777.31,No,DSL,Yes,No,No,,
+CUST0237,Female,73,12,Month-to-month,116.18,1333.64,Yes,Fiber optic,No,Yes,Yes,Attitude of support person,2024-09-21
+CUST0238,Female,39,13,Month-to-month,114.54,1443.05,Yes,Fiber optic,Yes,No,Yes,Poor customer service,2024-09-14
+CUST0239,Male,31,33,One year,68.78,2248.72,Yes,DSL,No,No,No,,
+CUST0240,Female,43,19,Month-to-month,104.36,2069.48,Yes,Fiber optic,Yes,Yes,Yes,Attitude of support person,2024-11-23
+CUST0241,Female,45,19,Month-to-month,90.52,1698.77,Yes,Fiber optic,Yes,Yes,No,,
+CUST0242,Male,40,11,Month-to-month,72.23,807.57,Yes,DSL,Yes,Yes,Yes,Network reliability,2024-09-10
+CUST0243,Female,31,10,Month-to-month,68.62,669.39,Yes,DSL,Yes,No,Yes,Poor customer service,2024-09-03
+CUST0244,Male,41,18,One year,88.55,1534.45,Yes,Fiber optic,Yes,No,No,,
+CUST0245,Male,19,14,Month-to-month,68.24,913.18,Yes,DSL,Yes,Yes,No,,
+CUST0246,Female,62,27,One year,72.55,1920.73,Yes,DSL,Yes,Yes,No,,
+CUST0247,Male,43,22,Month-to-month,110.42,2346.08,Yes,Fiber optic,No,Yes,Yes,Don't know,2024-07-12
+CUST0248,Male,31,23,Month-to-month,63.64,1416.0,Yes,DSL,Yes,Yes,No,,
+CUST0249,Male,76,19,Month-to-month,56.53,1102.08,Yes,DSL,No,No,No,,
+CUST0250,Male,73,3,Month-to-month,98.03,279.85,Yes,Fiber optic,No,No,Yes,Competitor offered better devices,2024-07-06
+CUST0251,Female,68,6,Month-to-month,99.89,602.8,Yes,Fiber optic,Yes,Yes,No,,
+CUST0252,Male,24,6,Month-to-month,112.87,669.06,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-07-16
+CUST0253,Female,20,21,One year,106.18,2231.24,Yes,Fiber optic,Yes,No,No,,
+CUST0254,Male,64,20,Month-to-month,71.89,1446.83,Yes,DSL,No,Yes,Yes,Don't know,2024-07-14
+CUST0255,Male,40,37,One year,64.09,2327.07,Yes,DSL,Yes,No,Yes,Price too high,2024-08-02
+CUST0256,Male,63,42,Two year,71.96,2960.4,Yes,DSL,No,Yes,No,,
+CUST0257,Male,60,29,One year,68.96,2046.52,Yes,DSL,Yes,No,No,,
+CUST0258,Female,64,4,Month-to-month,94.36,391.45,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-08-22
+CUST0259,Female,77,22,Month-to-month,107.29,2287.82,No,Fiber optic,No,No,No,,
+CUST0260,Male,62,21,Month-to-month,63.08,1271.38,Yes,DSL,Yes,Yes,No,,
+CUST0261,Male,35,13,Month-to-month,116.08,1569.07,Yes,Fiber optic,No,No,Yes,Competitor made better offer,2024-09-28
+CUST0262,Female,75,60,Two year,58.73,3470.91,Yes,DSL,No,Yes,No,,
+CUST0263,Male,55,7,Month-to-month,28.6,201.23,Yes,No,No internet service,No internet service,No,,
+CUST0264,Male,52,1,Month-to-month,107.47,105.96,Yes,Fiber optic,Yes,Yes,Yes,Don't know,2024-12-14
+CUST0265,Male,68,14,One year,73.8,994.54,Yes,DSL,No,No,No,,
+CUST0266,Female,32,55,One year,75.66,4198.47,Yes,DSL,No,Yes,No,,
+CUST0267,Female,42,45,One year,117.17,5285.91,Yes,Fiber optic,No,No,No,,
+CUST0268,Female,72,23,Month-to-month,123.11,2747.43,Yes,Fiber optic,Yes,Yes,Yes,Don't know,2024-07-06
+CUST0269,Male,54,23,Month-to-month,116.88,2675.3,Yes,Fiber optic,No,Yes,No,,
+CUST0270,Male,45,5,Month-to-month,90.2,464.39,Yes,Fiber optic,No,Yes,Yes,Poor customer service,2024-07-28
+CUST0271,Female,27,15,Month-to-month,51.1,773.43,No,DSL,No,No,No,,
+CUST0272,Female,56,12,Month-to-month,101.75,1171.78,Yes,Fiber optic,Yes,Yes,Yes,Poor customer service,2024-09-01
+CUST0273,Female,74,20,Month-to-month,81.16,1630.99,Yes,Fiber optic,Yes,Yes,No,,
+CUST0274,Female,34,16,Month-to-month,105.1,1715.69,Yes,Fiber optic,No,Yes,No,,
+CUST0275,Male,56,7,Month-to-month,59.63,429.63,Yes,DSL,No,No,No,,
+CUST0276,Female,39,5,Month-to-month,106.51,539.43,Yes,Fiber optic,No,Yes,Yes,Competitor offered better devices,2024-11-12
+CUST0277,Male,43,23,One year,33.58,745.51,Yes,No,No internet service,No internet service,No,,
+CUST0278,Female,79,25,One year,79.74,2035.4,Yes,DSL,Yes,Yes,No,,
+CUST0279,Male,61,66,Two year,57.28,3847.52,Yes,DSL,No,Yes,No,,
+CUST0280,Female,42,19,Month-to-month,65.34,1182.42,Yes,DSL,No,Yes,No,,
+CUST0281,Female,34,1,Month-to-month,56.04,55.55,Yes,DSL,Yes,No,No,,
+CUST0282,Female,30,6,Month-to-month,97.69,576.35,Yes,Fiber optic,No,Yes,Yes,Competitor offered better devices,2024-08-06
+CUST0283,Female,37,29,One year,104.61,3085.08,Yes,Fiber optic,No,No,No,,
+CUST0284,Male,42,23,One year,63.75,1424.63,Yes,DSL,No,Yes,No,,
+CUST0285,Female,21,3,Month-to-month,79.04,239.27,Yes,DSL,No,No,No,,
+CUST0286,Male,27,47,Two year,124.02,6069.8,Yes,Fiber optic,Yes,Yes,No,,
+CUST0287,Male,20,22,Month-to-month,61.82,1400.54,Yes,DSL,No,Yes,No,,
+CUST0288,Male,58,1,Month-to-month,33.63,35.05,Yes,No,No internet service,No internet service,No,,
+CUST0289,Male,62,48,One year,88.71,4461.83,No,Fiber optic,No,Yes,No,,
+CUST0290,Female,35,36,Two year,82.66,2830.15,Yes,Fiber optic,No,No,No,,
+CUST0291,Male,64,46,One year,87.14,4057.64,Yes,Fiber optic,No,No,No,,
+CUST0292,Male,53,44,Two year,98.41,4292.3,Yes,Fiber optic,Yes,Yes,No,,
+CUST0293,Male,64,19,Month-to-month,98.83,1945.34,Yes,Fiber optic,Yes,Yes,Yes,Attitude of support person,2024-08-08
+CUST0294,Female,39,46,Two year,59.97,2690.16,Yes,DSL,Yes,Yes,No,,
+CUST0295,Female,51,12,Month-to-month,55.63,699.67,Yes,DSL,Yes,Yes,Yes,Competitor made better offer,2024-07-09
+CUST0296,Female,64,43,Two year,113.51,4936.43,Yes,Fiber optic,Yes,Yes,No,,
+CUST0297,Female,25,21,Month-to-month,101.97,2204.23,Yes,Fiber optic,No,Yes,Yes,Price too high,2024-09-06
+CUST0298,Male,57,51,Two year,92.97,4544.98,Yes,Fiber optic,Yes,No,Yes,Network reliability,2024-10-18
+CUST0299,Male,66,6,Month-to-month,47.62,276.68,No,DSL,Yes,No,Yes,Price too high,2024-09-24
+CUST0300,Female,61,44,One year,68.76,3103.62,Yes,DSL,No,No,No,,
+CUST0301,Male,36,13,Month-to-month,61.89,766.11,Yes,DSL,Yes,No,No,,
+CUST0302,Male,59,54,One year,108.21,6028.5,Yes,Fiber optic,No,No,No,,
+CUST0303,Male,58,16,Month-to-month,63.19,961.9,Yes,DSL,Yes,Yes,Yes,Don't know,2024-09-19
+CUST0304,Female,54,23,Month-to-month,106.73,2493.36,Yes,Fiber optic,Yes,Yes,No,,
+CUST0305,Female,23,6,Month-to-month,73.95,437.71,No,Fiber optic,No,Yes,Yes,Network reliability,2024-12-14
+CUST0306,Male,69,20,Month-to-month,97.44,1970.53,Yes,Fiber optic,Yes,Yes,No,,
+CUST0307,Female,43,68,Two year,80.91,5609.73,Yes,Fiber optic,No,Yes,No,,
+CUST0308,Female,51,20,Month-to-month,116.35,2290.34,Yes,Fiber optic,Yes,No,No,,
+CUST0309,Female,76,52,Two year,34.98,1747.65,Yes,No,No internet service,No internet service,No,,
+CUST0310,Female,73,9,Month-to-month,18.34,157.96,No,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-09-06
+CUST0311,Female,76,11,Month-to-month,76.48,848.76,Yes,DSL,Yes,No,No,,
+CUST0312,Male,62,23,One year,81.81,1885.52,Yes,Fiber optic,No,No,No,,
+CUST0313,Female,23,34,One year,83.77,2917.16,Yes,Fiber optic,No,Yes,No,,
+CUST0314,Male,54,19,Month-to-month,29.06,552.68,Yes,No,No internet service,No internet service,Yes,Don't know,2024-08-24
+CUST0315,Male,74,36,One year,89.31,3190.23,Yes,Fiber optic,Yes,No,No,,
+CUST0316,Female,50,46,One year,113.53,5169.16,Yes,Fiber optic,No,No,Yes,Attitude of support person,2024-08-28
+CUST0317,Male,70,15,Month-to-month,33.68,481.28,Yes,No,No internet service,No internet service,No,,
+CUST0318,Male,39,38,Two year,118.08,4413.25,Yes,Fiber optic,Yes,Yes,No,,
+CUST0319,Male,38,61,Two year,115.46,7378.32,Yes,Fiber optic,No,Yes,No,,
+CUST0320,Female,23,51,One year,28.58,1512.03,Yes,No,No internet service,No internet service,No,,
+CUST0321,Female,23,19,Month-to-month,30.12,562.52,Yes,No,No internet service,No internet service,No,,
+CUST0322,Male,72,38,One year,121.03,4639.52,Yes,Fiber optic,No,Yes,Yes,Network reliability,2024-12-03
+CUST0323,Female,65,23,Month-to-month,102.98,2450.8,Yes,Fiber optic,No,Yes,Yes,Competitor made better offer,2024-12-04
+CUST0324,Female,21,3,Month-to-month,66.14,197.25,Yes,DSL,Yes,No,Yes,Network reliability,2024-09-20
+CUST0325,Female,47,8,Month-to-month,30.03,228.66,Yes,No,No internet service,No internet service,No,,
+CUST0326,Female,28,7,Month-to-month,73.55,492.94,Yes,DSL,Yes,Yes,No,,
+CUST0327,Male,79,27,Two year,93.82,2535.77,Yes,Fiber optic,Yes,No,No,,
+CUST0328,Male,79,12,One year,97.25,1221.78,Yes,Fiber optic,No,Yes,Yes,Attitude of support person,2024-11-20
+CUST0329,Female,47,44,One year,57.78,2591.44,No,DSL,No,Yes,No,,
+CUST0330,Female,48,3,Month-to-month,121.96,350.18,Yes,Fiber optic,No,No,No,,
+CUST0331,Male,41,3,Month-to-month,32.7,95.05,Yes,No,No internet service,No internet service,No,,
+CUST0332,Male,72,17,Month-to-month,70.3,1227.53,Yes,DSL,No,Yes,Yes,Competitor made better offer,2024-10-14
+CUST0333,Female,26,38,Two year,32.75,1286.99,Yes,No,No internet service,No internet service,No,,
+CUST0334,Male,72,8,Month-to-month,118.86,962.07,Yes,Fiber optic,No,Yes,Yes,Price too high,2024-07-25
+CUST0335,Female,20,53,Two year,29.55,1588.77,Yes,No,No internet service,No internet service,No,,
+CUST0336,Female,68,26,One year,93.42,2314.36,No,Fiber optic,Yes,Yes,No,,
+CUST0337,Male,48,23,Month-to-month,86.23,2048.45,Yes,Fiber optic,Yes,Yes,No,,
+CUST0338,Male,57,13,One year,69.88,934.63,Yes,DSL,No,Yes,No,,
+CUST0339,Female,54,21,Month-to-month,120.28,2465.02,Yes,Fiber optic,No,Yes,No,,
+CUST0340,Female,53,72,Two year,56.15,4127.16,Yes,DSL,No,No,No,,
+CUST0341,Male,41,62,Two year,69.89,4209.62,No,DSL,No,Yes,No,,
+CUST0342,Female,48,20,Month-to-month,69.27,1321.72,Yes,DSL,Yes,Yes,No,,
+CUST0343,Male,23,10,Month-to-month,77.88,755.52,Yes,DSL,Yes,Yes,No,,
+CUST0344,Female,19,33,One year,33.27,1062.63,Yes,No,No internet service,No internet service,No,,
+CUST0345,Male,37,56,Two year,99.37,5474.43,Yes,Fiber optic,Yes,Yes,Yes,Don't know,2024-08-29
+CUST0346,Male,45,18,Month-to-month,72.78,1299.36,Yes,DSL,Yes,No,Yes,Poor customer service,2024-10-23
+CUST0347,Male,28,27,One year,61.86,1671.65,Yes,DSL,No,No,No,,
+CUST0348,Female,21,29,One year,110.89,3208.33,Yes,Fiber optic,Yes,Yes,No,,
+CUST0349,Female,32,28,One year,34.06,931.81,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-09-25
+CUST0350,Male,23,4,Month-to-month,31.38,119.61,Yes,No,No internet service,No internet service,No,,
+CUST0351,Female,71,51,One year,77.16,3976.52,Yes,DSL,No,Yes,No,,
+CUST0352,Male,66,66,Two year,76.47,4994.4,Yes,DSL,No,No,No,,
+CUST0353,Male,47,10,Month-to-month,63.43,621.53,Yes,DSL,Yes,No,No,,
+CUST0354,Female,73,6,Month-to-month,34.66,215.59,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-10-10
+CUST0355,Female,55,45,Two year,98.78,4554.78,Yes,Fiber optic,Yes,No,No,,
+CUST0356,Male,68,22,Month-to-month,33.66,767.01,Yes,No,No internet service,No internet service,No,,
+CUST0357,Female,79,65,Two year,56.51,3671.31,Yes,DSL,Yes,No,No,,
+CUST0358,Female,74,17,Month-to-month,76.11,1246.12,Yes,DSL,Yes,Yes,No,,
+CUST0359,Male,19,3,Month-to-month,83.17,254.41,Yes,Fiber optic,Yes,Yes,No,,
+CUST0360,Male,32,24,Two year,31.81,741.0,Yes,No,No internet service,No internet service,No,,
+CUST0361,Female,28,19,Month-to-month,86.26,1629.31,Yes,Fiber optic,Yes,Yes,Yes,Network reliability,2024-07-17
+CUST0362,Male,25,16,Month-to-month,67.56,1033.94,Yes,DSL,No,No,Yes,Attitude of support person,2024-12-09
+CUST0363,Male,43,7,Month-to-month,62.22,449.71,Yes,DSL,Yes,No,Yes,Don't know,2024-10-15
+CUST0364,Female,68,27,One year,59.19,1538.35,Yes,DSL,Yes,No,No,,
+CUST0365,Male,62,5,Month-to-month,32.58,169.47,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-11-04
+CUST0366,Male,61,6,Month-to-month,88.37,549.53,Yes,Fiber optic,No,Yes,No,,
+CUST0367,Female,22,36,Two year,24.68,885.33,No,No,No internet service,No internet service,No,,
+CUST0368,Female,23,15,Month-to-month,85.21,1309.38,Yes,Fiber optic,Yes,No,No,,
+CUST0369,Male,43,13,One year,124.16,1633.36,Yes,Fiber optic,Yes,No,No,,
+CUST0370,Male,71,14,Month-to-month,108.29,1562.01,Yes,Fiber optic,Yes,Yes,No,,
+CUST0371,Female,21,44,One year,34.42,1504.15,Yes,No,No internet service,No internet service,No,,
+CUST0372,Female,36,18,Month-to-month,33.74,624.68,Yes,No,No internet service,No internet service,No,,
+CUST0373,Female,37,55,Two year,32.33,1771.47,Yes,No,No internet service,No internet service,No,,
+CUST0374,Female,50,4,Month-to-month,99.17,414.17,Yes,Fiber optic,No,Yes,No,,
+CUST0375,Male,37,15,Month-to-month,70.02,1048.87,Yes,DSL,No,No,No,,
+CUST0376,Female,66,15,Month-to-month,88.69,1325.38,Yes,Fiber optic,No,Yes,Yes,Competitor made better offer,2024-08-24
+CUST0377,Female,29,4,Month-to-month,88.97,366.03,Yes,Fiber optic,Yes,Yes,Yes,Poor customer service,2024-10-19
+CUST0378,Male,64,5,Month-to-month,89.1,,Yes,Fiber optic,Yes,No,Yes,Network reliability,2024-09-03
+CUST0379,Female,18,1,Month-to-month,55.15,55.45,Yes,DSL,Yes,Yes,Yes,Network reliability,2024-08-17
+CUST0380,Male,43,27,Two year,29.13,761.33,Yes,No,No internet service,No internet service,No,,
+CUST0381,Female,31,8,Month-to-month,99.97,797.18,Yes,Fiber optic,Yes,Yes,Yes,Competitor made better offer,2024-09-14
+CUST0382,Female,55,17,Month-to-month,77.91,1386.46,Yes,DSL,No,No,Yes,Competitor offered better devices,2024-12-18
+CUST0383,Female,54,40,One year,73.45,3012.33,Yes,DSL,No,Yes,No,,
+CUST0384,Male,79,54,One year,67.48,3757.31,Yes,DSL,Yes,Yes,No,,
+CUST0385,Male,28,23,Month-to-month,99.07,2172.16,Yes,Fiber optic,No,No,Yes,Don't know,2024-07-08
+CUST0386,Female,53,18,Month-to-month,29.33,526.24,Yes,No,No internet service,No internet service,No,,
+CUST0387,Male,30,19,Month-to-month,116.53,2246.53,Yes,Fiber optic,Yes,No,Yes,Attitude of support person,2024-11-13
+CUST0388,Male,60,37,One year,122.34,4675.97,Yes,Fiber optic,No,No,No,,
+CUST0389,Male,20,57,One year,113.52,6178.99,Yes,Fiber optic,No,Yes,No,,
+CUST0390,Male,50,10,Month-to-month,69.59,720.43,Yes,DSL,No,No,No,,
+CUST0391,Male,23,29,Two year,113.72,3313.84,Yes,Fiber optic,No,Yes,No,,
+CUST0392,Male,67,49,Two year,81.21,3858.84,Yes,Fiber optic,Yes,No,No,,
+CUST0393,Female,73,14,One year,23.01,316.25,No,No,No internet service,No internet service,No,,
+CUST0394,Female,27,37,Two year,30.1,1089.41,Yes,No,No internet service,No internet service,No,,
+CUST0395,Male,22,1,Month-to-month,100.1,100.41,Yes,Fiber optic,No,No,Yes,Don't know,2024-11-14
+CUST0396,Female,40,4,Month-to-month,63.95,244.33,Yes,DSL,No,Yes,Yes,Competitor offered better devices,2024-11-14
+CUST0397,Female,27,2,Month-to-month,70.01,135.24,Yes,DSL,Yes,No,No,,
+CUST0398,Female,61,2,Month-to-month,30.93,63.79,Yes,No,No internet service,No internet service,Yes,Don't know,2024-08-20
+CUST0399,Female,19,13,Month-to-month,28.84,361.15,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-09-06
+CUST0400,Male,30,63,Two year,85.3,5230.63,No,Fiber optic,No,Yes,No,,
+CUST0401,Female,57,11,Month-to-month,72.01,788.42,Yes,DSL,Yes,Yes,Yes,Attitude of support person,2024-09-01
+CUST0402,Female,19,5,Month-to-month,108.59,543.88,Yes,Fiber optic,Yes,Yes,Yes,Competitor offered better devices,2024-07-31
+CUST0403,Male,37,21,Month-to-month,111.7,2407.54,Yes,Fiber optic,Yes,Yes,No,,
+CUST0404,Male,18,58,Two year,72.4,4177.08,Yes,DSL,Yes,No,No,,
+CUST0405,Female,54,23,Month-to-month,73.15,1731.22,Yes,DSL,Yes,No,Yes,Network reliability,2024-09-08
+CUST0406,Female,26,1,Month-to-month,87.48,88.52,Yes,Fiber optic,No,No,Yes,Network reliability,2024-09-02
+CUST0407,Female,34,4,Month-to-month,85.46,328.61,Yes,Fiber optic,Yes,No,No,,
+CUST0408,Female,26,6,Month-to-month,70.58,408.93,Yes,DSL,Yes,Yes,No,,
+CUST0409,Female,28,32,Two year,86.14,2739.12,Yes,Fiber optic,No,Yes,No,,
+CUST0410,Female,32,44,Two year,19.3,840.44,No,No,No internet service,No internet service,No,,
+CUST0411,Male,41,12,Month-to-month,113.75,1398.24,Yes,Fiber optic,No,No,No,,
+CUST0412,Female,55,67,Two year,68.07,4597.51,No,DSL,Yes,No,No,,
+CUST0413,Female,72,12,One year,118.81,1409.77,Yes,Fiber optic,No,No,No,,
+CUST0414,Male,52,33,Two year,28.08,896.13,Yes,No,No internet service,No internet service,No,,
+CUST0415,Male,47,18,Month-to-month,71.82,1257.45,Yes,DSL,Yes,No,Yes,Network reliability,2024-10-08
+CUST0416,Male,48,7,Month-to-month,83.37,588.0,Yes,Fiber optic,Yes,No,Yes,Don't know,2024-11-14
+CUST0417,Male,66,10,Month-to-month,64.22,637.28,No,DSL,No,Yes,Yes,Competitor made better offer,2024-12-07
+CUST0418,Female,22,22,One year,99.12,2183.9,Yes,Fiber optic,Yes,No,No,,
+CUST0419,Female,79,7,Month-to-month,81.81,553.81,No,Fiber optic,Yes,No,Yes,Competitor made better offer,2024-10-09
+CUST0420,Female,77,3,Month-to-month,30.42,92.75,Yes,No,No internet service,No internet service,No,,
+CUST0421,Female,61,8,Month-to-month,57.49,476.13,Yes,DSL,No,Yes,No,,
+CUST0422,Female,67,22,One year,31.95,685.89,Yes,No,No internet service,No internet service,No,,
+CUST0423,Female,31,13,Month-to-month,108.38,1407.74,Yes,Fiber optic,No,No,Yes,Attitude of support person,2024-12-09
+CUST0424,Male,70,27,One year,56.41,1595.5,Yes,DSL,No,No,No,,
+CUST0425,Female,73,71,Two year,91.24,6370.01,Yes,Fiber optic,No,No,No,,
+CUST0426,Male,28,8,Month-to-month,84.48,682.26,Yes,Fiber optic,No,Yes,Yes,Don't know,2024-10-11
+CUST0427,Male,26,24,One year,32.86,756.32,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-12-06
+CUST0428,Female,51,12,Month-to-month,74.16,899.35,Yes,DSL,No,No,Yes,Price too high,2024-08-13
+CUST0429,Male,29,28,Two year,61.79,1659.12,Yes,DSL,No,Yes,No,,
+CUST0430,Female,52,15,Month-to-month,74.01,1161.13,Yes,DSL,Yes,Yes,No,,
+CUST0431,Male,52,26,One year,66.85,1775.58,Yes,DSL,Yes,No,No,,
+CUST0432,Female,18,49,Two year,34.97,1762.91,Yes,No,No internet service,No internet service,No,,
+CUST0433,Male,57,68,Two year,60.23,4179.23,Yes,DSL,Yes,Yes,No,,
+CUST0434,Female,39,27,One year,75.97,2069.6,Yes,DSL,Yes,No,No,,
+CUST0435,Female,77,10,Month-to-month,75.42,750.42,Yes,DSL,No,No,No,,
+CUST0436,Female,46,39,One year,98.56,3981.59,No,Fiber optic,Yes,No,No,,
+CUST0437,Female,25,58,Two year,73.79,4475.34,Yes,DSL,No,No,No,,
+CUST0438,Female,28,59,One year,28.69,1692.55,Yes,No,No internet service,No internet service,No,,
+CUST0439,Male,58,21,Month-to-month,74.13,1623.91,Yes,DSL,No,Yes,No,,
+CUST0440,Male,54,33,Two year,62.76,2088.34,Yes,DSL,Yes,No,No,,
+CUST0441,Male,31,21,One year,71.07,1498.2,Yes,DSL,No,Yes,No,,
+CUST0442,Female,77,36,One year,108.3,3881.05,Yes,Fiber optic,No,No,No,,
+CUST0443,Male,47,21,Month-to-month,60.47,1232.95,Yes,DSL,Yes,No,Yes,Competitor offered better devices,2024-12-28
+CUST0444,Female,52,40,One year,113.41,4311.27,Yes,Fiber optic,Yes,No,Yes,Don't know,2024-09-07
+CUST0445,Female,38,5,Month-to-month,61.59,299.99,No,DSL,Yes,Yes,Yes,Attitude of support person,2024-10-02
+CUST0446,Male,54,35,One year,86.83,3042.0,Yes,Fiber optic,No,No,No,,
+CUST0447,Male,22,6,Month-to-month,92.7,549.52,Yes,Fiber optic,No,Yes,No,,
+CUST0448,Female,36,34,One year,71.53,2419.49,Yes,DSL,No,No,Yes,Poor customer service,2024-09-12
+CUST0449,Male,76,63,Two year,76.42,5045.87,Yes,DSL,Yes,No,No,,
+CUST0450,Female,31,16,Month-to-month,99.96,1575.41,Yes,Fiber optic,Yes,Yes,No,,
+CUST0451,Female,43,53,Two year,111.37,5874.39,Yes,Fiber optic,No,Yes,Yes,Competitor offered better devices,2024-08-30
+CUST0452,Female,79,17,Month-to-month,73.17,1198.3,Yes,DSL,Yes,No,No,,
+CUST0453,Female,21,46,Two year,75.57,3319.08,Yes,DSL,No,Yes,No,,
+CUST0454,Female,42,32,One year,76.45,2513.78,Yes,DSL,No,Yes,No,,
+CUST0455,Male,62,29,One year,72.88,2128.46,Yes,DSL,No,No,No,,
+CUST0456,Male,59,55,One year,53.32,3009.05,No,DSL,No,Yes,No,,
+CUST0457,Female,42,28,Two year,53.23,1438.25,No,DSL,No,No,No,,
+CUST0458,Female,35,10,Month-to-month,72.64,731.62,Yes,DSL,Yes,No,No,,
+CUST0459,Male,57,1,Month-to-month,88.29,86.11,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-08-09
+CUST0460,Male,25,16,One year,65.36,1017.32,Yes,DSL,No,Yes,No,,
+CUST0461,Female,56,66,Two year,55.26,3469.01,Yes,DSL,No,No,No,,
+CUST0462,Male,57,44,One year,124.4,5271.26,Yes,Fiber optic,Yes,Yes,No,,
+CUST0463,Female,31,42,One year,34.26,1411.48,Yes,No,No internet service,No internet service,No,,
+CUST0464,Male,49,21,Month-to-month,28.4,573.55,Yes,No,No internet service,No internet service,No,,
+CUST0465,Female,68,43,Two year,91.82,4140.09,Yes,Fiber optic,Yes,No,No,,
+CUST0466,Male,78,15,Month-to-month,65.12,958.11,Yes,DSL,Yes,Yes,No,,
+CUST0467,Female,55,3,Month-to-month,20.75,59.95,No,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-08-27
+CUST0468,Male,50,13,Month-to-month,94.24,1188.25,Yes,Fiber optic,Yes,No,Yes,Price too high,2024-09-11
+CUST0469,Male,40,23,Month-to-month,95.62,2218.55,Yes,Fiber optic,Yes,Yes,No,,
+CUST0470,Female,32,2,Month-to-month,22.76,43.54,No,No,No internet service,No internet service,Yes,Competitor made better offer,2024-11-20
+CUST0471,Male,50,20,Month-to-month,104.04,2156.22,Yes,Fiber optic,Yes,Yes,No,,
+CUST0472,Female,42,30,One year,92.94,2916.88,Yes,Fiber optic,Yes,No,No,,
+CUST0473,Male,34,17,Month-to-month,28.68,475.21,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-07-27
+CUST0474,Female,50,12,Month-to-month,28.41,339.22,Yes,No,No internet service,No internet service,Yes,Network reliability,2024-10-24
+CUST0475,Male,64,18,Month-to-month,58.33,999.77,Yes,DSL,Yes,No,No,,
+CUST0476,Female,72,11,Month-to-month,63.67,710.22,Yes,DSL,Yes,Yes,Yes,Poor customer service,2024-07-29
+CUST0477,Male,19,3,Month-to-month,116.45,346.34,Yes,Fiber optic,Yes,Yes,Yes,Competitor offered better devices,2024-09-14
+CUST0478,Female,31,1,Month-to-month,59.64,58.27,Yes,DSL,Yes,Yes,Yes,Network reliability,2024-08-08
+CUST0479,Male,70,59,One year,32.0,1832.65,Yes,No,No internet service,No internet service,No,,
+CUST0480,Female,57,50,One year,29.71,1508.38,Yes,No,No internet service,No internet service,No,,
+CUST0481,Female,57,42,One year,84.16,3505.11,Yes,Fiber optic,Yes,No,No,,
+CUST0482,Female,68,9,Month-to-month,29.71,258.82,Yes,No,No internet service,No internet service,No,,
+CUST0483,Male,56,3,Month-to-month,101.06,308.91,No,Fiber optic,No,No,No,,
+CUST0484,Female,68,48,Two year,29.12,1406.86,Yes,No,No internet service,No internet service,No,,
+CUST0485,Male,23,23,Month-to-month,57.66,1373.75,Yes,DSL,Yes,No,No,,
+CUST0486,Female,23,1,Month-to-month,122.68,117.99,Yes,Fiber optic,Yes,No,No,,
+CUST0487,Male,20,10,Month-to-month,65.28,671.45,Yes,DSL,No,Yes,Yes,Network reliability,2024-09-15
+CUST0488,Female,24,17,Month-to-month,62.9,1087.85,No,DSL,No,Yes,No,,
+CUST0489,Male,68,23,Month-to-month,102.14,2258.78,Yes,Fiber optic,No,No,No,,
+CUST0490,Male,25,19,Month-to-month,55.76,1080.08,Yes,DSL,No,Yes,No,,
+CUST0491,Female,59,43,One year,78.83,3369.88,Yes,DSL,No,No,Yes,Don't know,2024-09-30
+CUST0492,Male,69,16,Month-to-month,76.94,1285.82,Yes,DSL,Yes,No,Yes,Competitor offered better devices,2024-11-10
+CUST0493,Male,32,17,One year,80.33,1316.67,Yes,Fiber optic,No,No,No,,
+CUST0494,Female,64,32,One year,122.96,3990.92,Yes,Fiber optic,No,No,No,,
+CUST0495,Male,46,60,Two year,61.67,3656.53,Yes,DSL,No,Yes,No,,
+CUST0496,Male,50,51,One year,55.31,2949.67,Yes,DSL,No,No,No,,
+CUST0497,Male,69,59,Two year,72.54,4207.09,Yes,DSL,Yes,Yes,Yes,Don't know,2024-10-27
+CUST0498,Female,47,20,Month-to-month,66.1,1383.1,Yes,DSL,Yes,No,Yes,Attitude of support person,2024-08-14
+CUST0499,Male,56,5,Month-to-month,90.13,468.74,Yes,Fiber optic,Yes,Yes,Yes,Don't know,2024-12-19
+CUST0500,Female,44,10,Month-to-month,59.21,578.5,No,DSL,No,No,Yes,Attitude of support person,2024-09-03
+CUST0501,Male,53,16,One year,87.84,1448.1,Yes,Fiber optic,No,Yes,No,,
+CUST0502,Male,46,57,Two year,100.22,5995.66,Yes,Fiber optic,Yes,Yes,No,,
+CUST0503,Male,55,6,Month-to-month,63.07,369.06,Yes,DSL,No,No,Yes,Competitor offered better devices,2024-08-14
+CUST0504,Female,74,30,Two year,59.09,1761.49,Yes,DSL,Yes,Yes,No,,
+CUST0505,Male,50,14,Month-to-month,114.55,1606.94,Yes,Fiber optic,No,No,Yes,Don't know,2024-09-10
+CUST0506,Male,78,52,Two year,91.95,4683.35,Yes,Fiber optic,Yes,No,No,,
+CUST0507,Female,54,5,Month-to-month,57.04,271.38,Yes,DSL,No,No,Yes,Poor customer service,2024-10-29
+CUST0508,Male,44,10,Month-to-month,79.98,777.42,Yes,DSL,Yes,No,Yes,Network reliability,2024-09-21
+CUST0509,Female,72,3,Month-to-month,110.01,322.83,Yes,Fiber optic,No,No,Yes,Price too high,2024-09-04
+CUST0510,Female,50,21,Month-to-month,71.08,1484.26,Yes,DSL,No,No,Yes,Price too high,2024-07-30
+CUST0511,Male,79,7,Month-to-month,64.63,437.53,Yes,DSL,Yes,Yes,No,,
+CUST0512,Female,21,2,Month-to-month,21.18,43.94,No,No,No internet service,No internet service,Yes,Attitude of support person,2024-08-17
+CUST0513,Male,39,52,Two year,29.19,1548.98,Yes,No,No internet service,No internet service,No,,
+CUST0514,Female,19,3,Month-to-month,99.44,285.95,No,Fiber optic,Yes,No,No,,
+CUST0515,Female,27,11,Month-to-month,123.85,1382.8,Yes,Fiber optic,Yes,Yes,No,,
+CUST0516,Male,22,38,One year,76.98,2970.19,Yes,DSL,Yes,No,No,,
+CUST0517,Female,76,46,One year,121.03,5821.38,Yes,Fiber optic,Yes,Yes,No,,
+CUST0518,Female,27,3,Month-to-month,56.61,161.39,Yes,DSL,No,No,Yes,Competitor made better offer,2024-10-24
+CUST0519,Female,50,9,Month-to-month,121.78,1068.39,Yes,Fiber optic,No,No,No,,
+CUST0520,Female,71,12,Month-to-month,95.22,1191.52,Yes,Fiber optic,Yes,Yes,No,,
+CUST0521,Female,55,3,Month-to-month,110.71,346.48,Yes,Fiber optic,No,No,Yes,Network reliability,2024-12-06
+CUST0522,Male,30,19,One year,57.56,1117.76,Yes,DSL,Yes,Yes,Yes,Attitude of support person,2024-11-15
+CUST0523,Female,48,13,Month-to-month,83.46,1113.81,Yes,Fiber optic,Yes,Yes,No,,
+CUST0524,Male,64,6,Month-to-month,86.18,495.96,Yes,Fiber optic,No,Yes,No,,
+CUST0525,Female,53,19,One year,59.81,1137.97,Yes,DSL,Yes,Yes,Yes,Attitude of support person,2024-10-08
+CUST0526,Male,62,20,Month-to-month,108.43,2110.39,Yes,Fiber optic,No,Yes,Yes,Competitor offered better devices,2024-12-17
+CUST0527,Male,41,41,One year,88.4,3508.86,Yes,Fiber optic,Yes,No,Yes,Network reliability,2024-11-25
+CUST0528,Female,69,22,Month-to-month,30.78,698.17,Yes,No,No internet service,No internet service,Yes,Network reliability,2024-07-29
+CUST0529,Female,73,71,Two year,94.7,6478.31,Yes,Fiber optic,No,Yes,No,,
+CUST0530,Female,32,13,Month-to-month,70.64,915.44,Yes,DSL,Yes,Yes,No,,
+CUST0531,Male,46,46,Two year,111.02,5330.9,Yes,Fiber optic,No,Yes,No,,
+CUST0532,Female,25,57,One year,70.49,3891.7,Yes,DSL,Yes,Yes,Yes,Competitor made better offer,2024-08-01
+CUST0533,Male,22,22,Month-to-month,63.06,1453.63,Yes,DSL,No,Yes,No,,
+CUST0534,Male,46,29,One year,28.39,864.01,Yes,No,No internet service,No internet service,No,,
+CUST0535,Male,64,62,Two year,30.1,1876.58,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-08-25
+CUST0536,Female,21,56,One year,112.05,6067.82,Yes,Fiber optic,Yes,Yes,Yes,Network reliability,2024-11-17
+CUST0537,Female,29,49,Two year,121.45,5841.61,Yes,Fiber optic,No,Yes,No,,
+CUST0538,Male,62,59,Two year,19.03,1114.29,No,No,No internet service,No internet service,No,,
+CUST0539,Male,19,22,Month-to-month,32.02,691.01,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-10-14
+CUST0540,Female,44,19,Month-to-month,24.5,455.29,No,No,No internet service,No internet service,Yes,Attitude of support person,2024-09-20
+CUST0541,Male,48,52,One year,91.35,4974.52,Yes,Fiber optic,Yes,Yes,No,,
+CUST0542,Female,68,7,Month-to-month,29.38,198.53,Yes,No,No internet service,No internet service,No,,
+CUST0543,Male,68,25,Two year,29.18,746.52,Yes,No,No internet service,No internet service,No,,
+CUST0544,Female,53,59,Two year,66.73,3740.38,Yes,DSL,Yes,Yes,No,,
+CUST0545,Male,53,22,Month-to-month,67.87,1507.5,Yes,DSL,Yes,Yes,No,,
+CUST0546,Female,43,5,Month-to-month,71.09,370.23,Yes,DSL,No,No,Yes,Price too high,2024-09-23
+CUST0547,Male,60,47,One year,59.12,2719.71,Yes,DSL,No,Yes,Yes,Competitor made better offer,2024-12-10
+CUST0548,Female,44,2,Month-to-month,108.29,209.77,Yes,Fiber optic,No,No,Yes,Network reliability,2024-10-03
+CUST0549,Female,22,44,Two year,86.33,3856.14,Yes,Fiber optic,No,Yes,No,,
+CUST0550,Male,37,17,Month-to-month,71.86,1247.59,Yes,DSL,No,No,No,,
+CUST0551,Male,28,46,One year,77.18,3617.04,Yes,DSL,No,Yes,No,,
+CUST0552,Female,79,9,Month-to-month,97.23,859.26,Yes,Fiber optic,Yes,No,No,,
+CUST0553,Male,27,18,One year,69.34,1217.19,Yes,DSL,No,Yes,Yes,Competitor made better offer,2024-07-14
+CUST0554,Female,57,17,Month-to-month,19.68,349.81,No,No,No internet service,No internet service,No,,
+CUST0555,Male,55,47,One year,77.81,3811.87,Yes,DSL,Yes,No,No,,
+CUST0556,Female,23,14,Month-to-month,64.78,903.05,No,DSL,No,No,No,,
+CUST0557,Female,25,15,One year,117.04,1816.38,Yes,Fiber optic,Yes,Yes,Yes,Network reliability,2024-08-23
+CUST0558,Female,40,65,Two year,77.74,5029.01,Yes,DSL,Yes,No,No,,
+CUST0559,Female,64,16,Month-to-month,29.48,468.11,Yes,No,No internet service,No internet service,Yes,Network reliability,2024-09-26
+CUST0560,Female,43,20,Month-to-month,31.52,608.76,Yes,No,No internet service,No internet service,No,,
+CUST0561,Female,63,22,Month-to-month,20.41,445.72,No,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-08-28
+CUST0562,Male,60,14,One year,75.4,1059.55,Yes,DSL,No,Yes,No,,
+CUST0563,Male,29,41,One year,65.47,2556.1,Yes,DSL,No,No,No,,
+CUST0564,Male,43,19,Month-to-month,75.52,1426.86,Yes,DSL,No,Yes,Yes,Price too high,2024-11-21
+CUST0565,Female,30,12,Month-to-month,78.22,965.05,Yes,DSL,No,Yes,No,,
+CUST0566,Female,57,14,Month-to-month,107.5,1532.1,Yes,Fiber optic,No,No,No,,
+CUST0567,Female,79,36,One year,85.75,3128.72,Yes,Fiber optic,No,Yes,No,,
+CUST0568,Female,35,3,Month-to-month,31.32,97.81,Yes,No,No internet service,No internet service,No,,
+CUST0569,Male,42,29,Two year,119.9,3309.51,Yes,Fiber optic,No,Yes,No,,
+CUST0570,Male,50,2,Month-to-month,58.86,118.39,Yes,DSL,No,No,No,,
+CUST0571,Female,64,57,One year,100.24,5877.86,Yes,Fiber optic,Yes,Yes,No,,
+CUST0572,Male,57,8,Month-to-month,34.71,278.83,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-12-13
+CUST0573,Male,77,5,Month-to-month,72.24,354.84,Yes,DSL,No,No,No,,
+CUST0574,Female,60,43,One year,103.31,4280.74,Yes,Fiber optic,No,Yes,Yes,Poor customer service,2024-07-16
+CUST0575,Male,29,44,One year,90.49,4135.87,Yes,Fiber optic,Yes,Yes,No,,
+CUST0576,Female,61,49,Two year,66.0,3224.54,Yes,DSL,No,Yes,No,,
+CUST0577,Male,53,17,Month-to-month,119.02,2099.85,Yes,Fiber optic,No,Yes,No,,
+CUST0578,Female,65,23,Month-to-month,56.39,1308.1,Yes,DSL,No,No,No,,
+CUST0579,Female,21,24,One year,31.36,765.75,Yes,No,No internet service,No internet service,No,,
+CUST0580,Female,22,49,One year,77.61,3918.6,Yes,DSL,No,No,Yes,Competitor made better offer,2024-07-30
+CUST0581,Female,73,9,Month-to-month,100.88,922.37,Yes,Fiber optic,No,Yes,Yes,Network reliability,2024-08-04
+CUST0582,Male,54,22,Month-to-month,31.73,690.94,Yes,No,No internet service,No internet service,No,,
+CUST0583,Female,25,22,Month-to-month,31.2,687.34,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-08-13
+CUST0584,Female,59,44,Two year,89.92,4076.38,Yes,Fiber optic,Yes,Yes,No,,
+CUST0585,Female,66,2,Month-to-month,34.54,68.21,Yes,No,No internet service,No internet service,No,,
+CUST0586,Male,45,3,Month-to-month,124.31,368.76,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-08-07
+CUST0587,Female,48,3,Month-to-month,123.3,354.94,Yes,Fiber optic,Yes,No,No,,
+CUST0588,Male,75,4,Month-to-month,107.65,448.45,Yes,Fiber optic,Yes,No,No,,
+CUST0589,Female,26,13,Month-to-month,98.31,1225.76,Yes,Fiber optic,Yes,Yes,Yes,Network reliability,2024-09-23
+CUST0590,Male,71,11,Month-to-month,90.75,1013.04,Yes,Fiber optic,No,Yes,Yes,Don't know,2024-09-28
+CUST0591,Male,68,10,Month-to-month,30.56,302.95,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-12-30
+CUST0592,Female,46,47,Two year,75.64,3521.53,Yes,DSL,No,Yes,No,,
+CUST0593,Male,31,3,Month-to-month,81.42,248.65,Yes,Fiber optic,No,Yes,Yes,Network reliability,2024-10-03
+CUST0594,Female,57,18,Month-to-month,116.49,2006.05,Yes,Fiber optic,Yes,Yes,Yes,Competitor made better offer,2024-08-31
+CUST0595,Female,58,29,Two year,83.63,2448.0,Yes,Fiber optic,No,No,No,,
+CUST0596,Female,39,51,One year,75.34,3946.86,Yes,DSL,Yes,No,No,,
+CUST0597,Male,28,14,Month-to-month,33.95,490.9,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-10-24
+CUST0598,Male,40,3,Month-to-month,123.42,358.06,Yes,Fiber optic,No,No,Yes,Network reliability,2024-07-20
+CUST0599,Female,18,19,Month-to-month,28.31,559.27,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-09-18
+CUST0600,Female,63,38,One year,32.66,1260.46,Yes,No,No internet service,No internet service,No,,
+CUST0601,Male,54,28,Two year,34.32,997.65,Yes,No,No internet service,No internet service,No,,
+CUST0602,Female,38,49,One year,114.45,5599.8,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-10-26
+CUST0603,Female,43,44,One year,89.59,3958.53,Yes,Fiber optic,Yes,Yes,No,,
+CUST0604,Female,63,46,One year,108.21,5186.24,Yes,Fiber optic,Yes,No,No,,
+CUST0605,Male,53,15,Month-to-month,78.36,1222.41,Yes,DSL,No,Yes,Yes,Network reliability,2024-07-24
+CUST0606,Male,71,8,Month-to-month,116.68,928.6,Yes,Fiber optic,No,No,Yes,Price too high,2024-09-14
+CUST0607,Male,40,53,One year,28.69,1486.27,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-07-13
+CUST0608,Female,74,32,Two year,60.4,1912.15,No,DSL,Yes,No,No,,
+CUST0609,Female,18,18,Month-to-month,92.34,1643.47,Yes,Fiber optic,Yes,Yes,Yes,Competitor made better offer,2024-12-08
+CUST0610,Female,71,29,One year,59.84,1698.37,No,DSL,Yes,No,Yes,Attitude of support person,2024-12-03
+CUST0611,Male,72,23,Month-to-month,32.07,720.54,Yes,No,No internet service,No internet service,Yes,Price too high,2024-08-09
+CUST0612,Female,68,23,Month-to-month,104.11,2480.99,Yes,Fiber optic,Yes,No,Yes,Attitude of support person,2024-09-20
+CUST0613,Female,57,13,Month-to-month,30.37,377.83,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-10-20
+CUST0614,Female,32,1,Month-to-month,33.08,33.67,Yes,No,No internet service,No internet service,No,,
+CUST0615,Female,38,17,One year,95.03,1562.65,Yes,Fiber optic,Yes,No,Yes,Competitor made better offer,2024-10-05
+CUST0616,Male,64,21,Month-to-month,59.26,1225.11,Yes,DSL,No,No,Yes,Competitor offered better devices,2024-10-13
+CUST0617,Male,26,18,One year,68.79,1183.93,Yes,DSL,No,No,No,,
+CUST0618,Female,70,32,One year,30.64,957.93,Yes,No,No internet service,No internet service,No,,
+CUST0619,Male,26,64,Two year,112.9,7419.55,Yes,Fiber optic,Yes,No,Yes,Price too high,2024-11-01
+CUST0620,Male,27,6,Month-to-month,95.24,593.44,Yes,Fiber optic,No,Yes,No,,
+CUST0621,Female,69,6,Month-to-month,22.08,128.79,No,No,No internet service,No internet service,No,,
+CUST0622,Female,74,14,Month-to-month,116.94,1631.19,Yes,Fiber optic,Yes,No,Yes,Attitude of support person,2024-12-03
+CUST0623,Male,70,65,Two year,50.86,3296.09,No,DSL,No,No,No,,
+CUST0624,Female,43,47,Two year,34.84,1698.65,Yes,No,No internet service,No internet service,No,,
+CUST0625,Male,58,20,Month-to-month,111.61,2290.86,Yes,Fiber optic,No,Yes,No,,
+CUST0626,Female,52,31,Two year,56.3,1747.58,Yes,DSL,No,No,No,,
+CUST0627,Male,69,3,Month-to-month,118.94,362.91,Yes,Fiber optic,Yes,Yes,Yes,Network reliability,2024-10-06
+CUST0628,Female,42,30,One year,64.4,1999.11,Yes,DSL,Yes,Yes,No,,
+CUST0629,Male,43,18,Month-to-month,70.51,1206.93,Yes,DSL,No,No,No,,
+CUST0630,Male,28,33,One year,32.46,1060.78,Yes,No,No internet service,No internet service,No,,
+CUST0631,Male,55,11,Month-to-month,103.32,1182.8,No,Fiber optic,No,Yes,Yes,Competitor made better offer,2024-11-12
+CUST0632,Female,19,37,Two year,122.58,4644.45,Yes,Fiber optic,Yes,Yes,No,,
+CUST0633,Male,24,23,One year,67.63,1562.15,Yes,DSL,Yes,No,No,,
+CUST0634,Male,35,36,One year,86.12,3109.51,Yes,Fiber optic,Yes,Yes,No,,
+CUST0635,Female,44,20,Month-to-month,64.31,1266.62,Yes,DSL,No,Yes,Yes,Network reliability,2024-12-23
+CUST0636,Female,51,19,Month-to-month,93.62,1782.43,Yes,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-10-12
+CUST0637,Male,44,11,Month-to-month,55.25,617.19,Yes,DSL,No,No,No,,
+CUST0638,Male,34,12,Month-to-month,69.84,831.24,Yes,DSL,No,Yes,Yes,Poor customer service,2024-07-29
+CUST0639,Female,60,14,Month-to-month,74.7,1068.2,Yes,DSL,Yes,No,Yes,Network reliability,2024-12-05
+CUST0640,Female,76,41,Two year,59.98,2548.01,Yes,DSL,No,No,No,,
+CUST0641,Female,61,26,One year,90.95,2283.04,Yes,Fiber optic,No,No,No,,
+CUST0642,Female,76,11,Month-to-month,65.06,712.19,Yes,DSL,No,Yes,No,,
+CUST0643,Female,68,22,Month-to-month,78.17,1703.92,Yes,DSL,No,Yes,No,,
+CUST0644,Male,71,14,Month-to-month,102.34,1459.62,Yes,Fiber optic,No,No,Yes,Don't know,2024-09-23
+CUST0645,Female,41,16,One year,68.0,1060.79,Yes,DSL,No,No,No,,
+CUST0646,Male,42,5,Month-to-month,88.57,449.06,Yes,Fiber optic,Yes,No,Yes,Don't know,2024-11-09
+CUST0647,Male,24,61,Two year,33.46,2118.11,Yes,No,No internet service,No internet service,No,,
+CUST0648,Male,69,7,Month-to-month,102.55,711.97,Yes,Fiber optic,Yes,Yes,Yes,Competitor made better offer,2024-08-06
+CUST0649,Female,23,42,Two year,119.01,5203.86,Yes,Fiber optic,Yes,No,No,,
+CUST0650,Male,70,30,Two year,73.51,2314.06,Yes,DSL,No,Yes,No,,
+CUST0651,Male,41,18,Month-to-month,55.26,955.5,Yes,DSL,Yes,No,Yes,Competitor offered better devices,2024-08-07
+CUST0652,Female,50,62,Two year,55.45,3346.13,Yes,DSL,No,Yes,No,,
+CUST0653,Male,66,19,Month-to-month,71.83,1426.24,Yes,DSL,No,Yes,No,,
+CUST0654,Male,46,71,Two year,58.92,4375.05,Yes,DSL,No,No,No,,
+CUST0655,Female,60,11,Month-to-month,28.36,299.41,Yes,No,No internet service,No internet service,No,,
+CUST0656,Male,39,63,Two year,34.59,2073.48,Yes,No,No internet service,No internet service,No,,
+CUST0657,Male,43,70,Two year,69.77,4718.38,Yes,DSL,Yes,No,No,,
+CUST0658,Male,45,60,Two year,118.23,7445.66,Yes,Fiber optic,Yes,Yes,No,,
+CUST0659,Female,67,56,One year,112.11,6077.26,Yes,Fiber optic,Yes,Yes,Yes,Price too high,2024-12-15
+CUST0660,Female,38,8,Month-to-month,31.17,249.42,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-11-08
+CUST0661,Female,66,20,Month-to-month,110.24,2281.62,Yes,Fiber optic,Yes,No,No,,
+CUST0662,Male,24,2,Month-to-month,66.07,125.8,Yes,DSL,Yes,No,Yes,Competitor offered better devices,2024-11-16
+CUST0663,Male,34,6,Month-to-month,80.61,488.71,Yes,Fiber optic,Yes,Yes,Yes,Poor customer service,2024-08-27
+CUST0664,Female,37,28,One year,31.39,859.32,Yes,No,No internet service,No internet service,No,,
+CUST0665,Male,58,9,Month-to-month,69.05,643.97,Yes,DSL,Yes,Yes,Yes,Price too high,2024-12-22
+CUST0666,Male,66,29,Two year,104.56,2966.58,Yes,Fiber optic,Yes,Yes,No,,
+CUST0667,Female,37,57,One year,94.19,5469.1,Yes,Fiber optic,Yes,Yes,No,,
+CUST0668,Female,71,33,Two year,72.93,2448.62,Yes,DSL,Yes,Yes,No,,
+CUST0669,Male,39,7,Month-to-month,85.66,582.92,Yes,Fiber optic,No,Yes,Yes,Network reliability,2024-08-22
+CUST0670,Male,45,53,Two year,110.24,5570.92,Yes,Fiber optic,Yes,Yes,No,,
+CUST0671,Male,78,46,Two year,92.31,4207.73,Yes,Fiber optic,No,Yes,No,,
+CUST0672,Female,57,1,Month-to-month,59.38,58.13,Yes,DSL,No,Yes,Yes,Attitude of support person,2024-11-07
+CUST0673,Female,66,50,One year,34.78,1792.73,Yes,No,No internet service,No internet service,No,,
+CUST0674,Female,24,52,One year,30.18,1616.5,Yes,No,No internet service,No internet service,No,,
+CUST0675,Female,18,12,Month-to-month,66.39,793.26,Yes,DSL,Yes,Yes,No,,
+CUST0676,Male,49,15,Month-to-month,75.76,1148.5,Yes,DSL,Yes,Yes,No,,
+CUST0677,Female,30,9,Month-to-month,71.94,654.21,Yes,DSL,No,No,No,,
+CUST0678,Female,47,23,Month-to-month,123.55,2934.62,Yes,Fiber optic,Yes,Yes,No,,
+CUST0679,Female,40,5,Month-to-month,61.14,303.41,No,DSL,Yes,Yes,No,,
+CUST0680,Female,68,7,Month-to-month,113.42,776.11,Yes,Fiber optic,Yes,No,Yes,Competitor made better offer,2024-10-07
+CUST0681,Female,76,8,Month-to-month,111.2,868.7,Yes,Fiber optic,Yes,Yes,No,,
+CUST0682,Male,73,16,Month-to-month,99.96,1605.15,Yes,Fiber optic,Yes,No,No,,
+CUST0683,Male,36,72,Two year,106.24,7610.38,Yes,Fiber optic,No,Yes,No,,
+CUST0684,Female,79,16,Month-to-month,30.3,481.9,Yes,No,No internet service,No internet service,Yes,Price too high,2024-09-30
+CUST0685,Male,49,64,Two year,89.23,5477.23,Yes,Fiber optic,Yes,No,No,,
+CUST0686,Female,47,15,Month-to-month,54.64,837.52,No,DSL,No,No,No,,
+CUST0687,Female,46,18,Month-to-month,119.93,2096.94,Yes,Fiber optic,No,No,Yes,Competitor made better offer,2024-10-31
+CUST0688,Male,66,5,Month-to-month,33.37,161.79,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-10-07
+CUST0689,Male,62,11,Month-to-month,56.89,620.33,Yes,DSL,Yes,No,No,,
+CUST0690,Female,46,20,Month-to-month,85.68,1666.95,Yes,Fiber optic,Yes,No,Yes,Network reliability,2024-12-10
+CUST0691,Female,47,19,One year,106.79,2046.02,Yes,Fiber optic,Yes,No,No,,
+CUST0692,Female,33,11,Month-to-month,92.97,1009.52,Yes,Fiber optic,Yes,Yes,No,,
+CUST0693,Male,57,18,One year,67.48,1208.43,Yes,DSL,No,No,No,,
+CUST0694,Female,36,36,One year,110.83,4004.71,Yes,Fiber optic,Yes,No,No,,
+CUST0695,Female,35,12,Month-to-month,34.64,403.36,Yes,No,No internet service,No internet service,No,,
+CUST0696,Female,18,18,Month-to-month,30.5,530.1,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-07-25
+CUST0697,Male,31,21,One year,104.62,2280.6,Yes,Fiber optic,No,Yes,No,,
+CUST0698,Female,68,4,Month-to-month,103.77,412.33,Yes,Fiber optic,No,No,Yes,Attitude of support person,2024-10-26
+CUST0699,Female,64,18,Month-to-month,123.67,2206.49,Yes,Fiber optic,No,Yes,Yes,Competitor made better offer,2024-07-09
+CUST0700,Male,67,66,Two year,107.17,6744.75,Yes,Fiber optic,Yes,Yes,No,,
+CUST0701,Female,19,14,Month-to-month,66.09,925.07,Yes,DSL,Yes,No,No,,
+CUST0702,Female,71,36,One year,69.07,2499.99,No,DSL,No,Yes,No,,
+CUST0703,Male,45,30,Two year,83.81,2529.09,Yes,Fiber optic,Yes,Yes,No,,
+CUST0704,Female,66,4,Month-to-month,95.7,390.73,Yes,Fiber optic,Yes,Yes,No,,
+CUST0705,Male,67,16,Month-to-month,28.21,436.8,Yes,No,No internet service,No internet service,Yes,Price too high,2024-08-26
+CUST0706,Male,47,13,Month-to-month,104.17,1320.66,Yes,Fiber optic,Yes,Yes,No,,
+CUST0707,Female,55,4,Month-to-month,59.67,246.1,Yes,DSL,No,Yes,Yes,Competitor offered better devices,2024-08-05
+CUST0708,Female,68,12,Month-to-month,96.18,1205.77,Yes,Fiber optic,Yes,No,No,,
+CUST0709,Female,21,52,One year,34.48,1727.68,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-09-20
+CUST0710,Female,18,19,Month-to-month,100.7,1912.85,Yes,Fiber optic,Yes,Yes,No,,
+CUST0711,Male,25,6,Month-to-month,34.77,202.66,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-08-01
+CUST0712,Female,46,56,Two year,86.5,4630.9,Yes,Fiber optic,Yes,No,No,,
+CUST0713,Male,72,56,Two year,62.37,3431.77,Yes,DSL,Yes,No,No,,
+CUST0714,Female,56,52,One year,82.38,4131.12,Yes,Fiber optic,Yes,Yes,No,,
+CUST0715,Female,20,5,Month-to-month,32.16,164.18,Yes,No,No internet service,No internet service,No,,
+CUST0716,Female,49,13,One year,96.03,1252.6,Yes,Fiber optic,Yes,No,No,,
+CUST0717,Male,27,13,Month-to-month,113.64,1424.7,Yes,Fiber optic,Yes,Yes,Yes,Competitor offered better devices,2024-12-18
+CUST0718,Female,27,4,Month-to-month,107.15,407.57,No,Fiber optic,No,No,Yes,Price too high,2024-12-24
+CUST0719,Female,36,3,Month-to-month,24.59,76.04,No,No,No internet service,No internet service,No,,
+CUST0720,Female,63,33,Two year,101.18,3230.82,Yes,Fiber optic,No,Yes,Yes,Competitor made better offer,2024-10-16
+CUST0721,Female,51,14,Month-to-month,66.36,938.91,No,DSL,Yes,Yes,No,,
+CUST0722,Male,77,16,Month-to-month,28.2,443.84,Yes,No,No internet service,No internet service,No,,
+CUST0723,Female,50,11,Month-to-month,96.84,1074.35,No,Fiber optic,Yes,Yes,Yes,Attitude of support person,2024-09-02
+CUST0724,Male,40,2,Month-to-month,68.42,134.32,Yes,DSL,Yes,No,No,,
+CUST0725,Male,72,66,Two year,70.14,4438.02,Yes,DSL,Yes,No,No,,
+CUST0726,Male,45,12,One year,59.99,699.94,Yes,DSL,No,Yes,No,,
+CUST0727,Male,49,37,One year,68.11,2441.46,Yes,DSL,No,No,No,,
+CUST0728,Male,67,3,Month-to-month,87.73,261.3,Yes,Fiber optic,No,No,No,,
+CUST0729,Male,24,11,Month-to-month,65.95,736.93,Yes,DSL,No,Yes,No,,
+CUST0730,Female,46,1,Month-to-month,34.64,33.82,Yes,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-08-26
+CUST0731,Male,25,23,Month-to-month,71.94,1573.89,Yes,DSL,No,No,Yes,Attitude of support person,2024-07-26
+CUST0732,Male,18,6,Month-to-month,29.87,179.56,Yes,No,No internet service,No internet service,Yes,Don't know,2024-10-01
+CUST0733,Male,74,21,One year,65.77,1395.78,Yes,DSL,Yes,No,No,,
+CUST0734,Female,72,18,Month-to-month,60.98,1148.45,Yes,DSL,No,No,Yes,Competitor made better offer,2024-10-22
+CUST0735,Female,20,6,Month-to-month,68.99,417.64,Yes,DSL,Yes,Yes,Yes,Attitude of support person,2024-08-24
+CUST0736,Male,41,21,Month-to-month,114.06,2388.36,Yes,Fiber optic,Yes,Yes,Yes,Network reliability,2024-08-06
+CUST0737,Female,40,18,Month-to-month,109.09,1978.03,Yes,Fiber optic,No,Yes,No,,
+CUST0738,Male,76,11,Month-to-month,76.47,877.16,Yes,DSL,Yes,Yes,No,,
+CUST0739,Male,78,47,Two year,18.3,888.34,No,No,No internet service,No internet service,No,,
+CUST0740,Female,25,24,Two year,62.73,1478.87,Yes,DSL,Yes,Yes,No,,
+CUST0741,Male,71,62,Two year,60.19,3633.73,Yes,DSL,Yes,Yes,No,,
+CUST0742,Female,74,10,Month-to-month,75.08,732.98,Yes,DSL,Yes,No,No,,
+CUST0743,Female,64,19,Month-to-month,97.21,1847.81,Yes,Fiber optic,Yes,No,Yes,Poor customer service,2024-11-10
+CUST0744,Male,54,9,Month-to-month,115.93,1068.83,Yes,Fiber optic,No,Yes,Yes,Attitude of support person,2024-09-23
+CUST0745,Male,20,8,Month-to-month,65.97,527.93,Yes,DSL,Yes,Yes,Yes,Competitor made better offer,2024-11-19
+CUST0746,Female,68,62,Two year,99.7,5914.24,Yes,Fiber optic,Yes,No,No,,
+CUST0747,Male,50,5,Month-to-month,120.0,613.41,Yes,Fiber optic,Yes,Yes,No,,
+CUST0748,Male,45,17,Month-to-month,80.78,1415.28,Yes,Fiber optic,No,No,Yes,Competitor made better offer,2024-12-02
+CUST0749,Male,64,15,Month-to-month,122.01,1791.62,Yes,Fiber optic,No,Yes,Yes,Don't know,2024-11-25
+CUST0750,Female,25,4,Month-to-month,109.98,447.14,No,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-11-04
+CUST0751,Female,51,30,One year,118.41,3526.22,Yes,Fiber optic,Yes,Yes,No,,
+CUST0752,Male,52,10,Month-to-month,124.68,1295.32,Yes,Fiber optic,No,Yes,Yes,Competitor offered better devices,2024-08-04
+CUST0753,Female,49,9,Month-to-month,123.33,1148.29,Yes,Fiber optic,No,Yes,Yes,Network reliability,2024-09-04
+CUST0754,Female,41,2,Month-to-month,30.01,60.17,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-10-23
+CUST0755,Female,31,5,Month-to-month,77.64,395.63,Yes,DSL,Yes,No,No,,
+CUST0756,Female,49,47,One year,92.93,4535.15,Yes,Fiber optic,No,No,No,,
+CUST0757,Female,73,27,Two year,99.34,2681.03,Yes,Fiber optic,No,No,No,,
+CUST0758,Male,63,65,Two year,69.7,4445.89,Yes,DSL,Yes,No,No,,
+CUST0759,Male,60,12,One year,94.22,1159.32,Yes,Fiber optic,Yes,Yes,No,,
+CUST0760,Male,33,10,Month-to-month,118.78,1154.55,Yes,Fiber optic,No,No,No,,
+CUST0761,Female,21,50,One year,30.12,1489.21,Yes,No,No internet service,No internet service,No,,
+CUST0762,Female,69,1,Month-to-month,91.46,94.8,Yes,Fiber optic,Yes,Yes,No,,
+CUST0763,Male,54,13,Month-to-month,56.43,750.05,Yes,DSL,Yes,No,Yes,Competitor made better offer,2024-09-24
+CUST0764,Female,71,54,Two year,34.71,1856.31,Yes,No,No internet service,No internet service,No,,
+CUST0765,Male,38,13,Month-to-month,56.3,711.02,Yes,DSL,Yes,No,Yes,Don't know,2024-11-14
+CUST0766,Male,31,32,Two year,104.1,3283.22,Yes,Fiber optic,Yes,No,No,,
+CUST0767,Male,48,3,Month-to-month,93.41,274.18,No,Fiber optic,Yes,No,No,,
+CUST0768,Female,72,41,One year,82.7,3280.87,Yes,Fiber optic,No,No,No,,
+CUST0769,Female,65,27,One year,121.92,3371.94,Yes,Fiber optic,Yes,No,Yes,Price too high,2024-07-13
+CUST0770,Male,35,31,Two year,30.54,923.27,Yes,No,No internet service,No internet service,No,,
+CUST0771,Male,24,49,One year,113.56,5538.94,No,Fiber optic,Yes,Yes,No,,
+CUST0772,Male,27,21,One year,94.89,1969.95,Yes,Fiber optic,No,Yes,No,,
+CUST0773,Male,24,23,Month-to-month,73.23,1765.49,No,Fiber optic,Yes,No,Yes,Poor customer service,2024-08-09
+CUST0774,Female,50,19,Month-to-month,84.72,1592.15,No,Fiber optic,Yes,No,No,,
+CUST0775,Female,40,8,Month-to-month,90.18,691.14,Yes,Fiber optic,Yes,No,No,,
+CUST0776,Male,38,42,One year,52.58,2117.78,No,DSL,Yes,No,No,,
+CUST0777,Male,36,2,Month-to-month,61.6,124.32,Yes,DSL,Yes,No,Yes,Poor customer service,2024-10-08
+CUST0778,Female,65,43,One year,65.87,2860.55,Yes,DSL,No,Yes,No,,
+CUST0779,Female,78,22,Month-to-month,114.53,2499.19,Yes,Fiber optic,No,Yes,Yes,Poor customer service,2024-08-22
+CUST0780,Male,36,3,Month-to-month,28.03,83.52,Yes,No,No internet service,No internet service,No,,
+CUST0781,Male,53,23,One year,102.95,2262.23,Yes,Fiber optic,No,Yes,No,,
+CUST0782,Male,46,3,Month-to-month,114.01,342.6,Yes,Fiber optic,No,Yes,Yes,Poor customer service,2024-11-04
+CUST0783,Female,77,8,Month-to-month,55.54,444.53,No,DSL,No,No,Yes,Attitude of support person,2024-08-18
+CUST0784,Female,35,3,Month-to-month,60.77,175.92,Yes,DSL,Yes,No,No,,
+CUST0785,Female,19,32,Two year,124.0,3810.8,Yes,Fiber optic,Yes,No,No,,
+CUST0786,Male,18,46,One year,103.98,4603.03,No,Fiber optic,No,Yes,No,,
+CUST0787,Male,64,12,Month-to-month,112.05,1290.95,No,Fiber optic,Yes,No,Yes,Price too high,2024-10-09
+CUST0788,Female,22,4,Month-to-month,87.2,352.63,No,Fiber optic,Yes,Yes,Yes,Competitor made better offer,2024-09-21
+CUST0789,Female,37,10,Month-to-month,58.22,564.53,Yes,DSL,No,No,No,,
+CUST0790,Male,28,24,One year,54.57,1277.13,No,DSL,No,Yes,No,,
+CUST0791,Female,59,24,One year,34.07,790.99,Yes,No,No internet service,No internet service,No,,
+CUST0792,Female,19,20,Month-to-month,77.06,1611.76,Yes,DSL,Yes,Yes,Yes,Network reliability,2024-11-15
+CUST0793,Male,20,16,Month-to-month,120.88,2002.67,Yes,Fiber optic,Yes,No,Yes,Price too high,2024-12-20
+CUST0794,Female,40,20,Month-to-month,110.48,2150.05,Yes,Fiber optic,No,Yes,No,,
+CUST0795,Male,72,54,One year,123.6,6559.31,Yes,Fiber optic,No,Yes,No,,
+CUST0796,Male,29,29,One year,76.06,2141.75,Yes,DSL,No,Yes,No,,
+CUST0797,Male,37,15,Month-to-month,107.08,1604.9,Yes,Fiber optic,No,No,Yes,Competitor offered better devices,2024-07-13
+CUST0798,Male,22,11,Month-to-month,63.84,668.51,Yes,DSL,No,Yes,Yes,Attitude of support person,2024-10-27
+CUST0799,Male,54,22,Month-to-month,117.57,2630.87,Yes,Fiber optic,No,Yes,No,,
+CUST0800,Male,55,46,Two year,28.28,1303.89,Yes,No,No internet service,No internet service,No,,
+CUST0801,Male,47,22,Month-to-month,61.02,1395.95,Yes,DSL,No,Yes,Yes,Network reliability,2024-11-08
+CUST0802,Female,26,25,One year,30.83,744.88,Yes,No,No internet service,No internet service,No,,
+CUST0803,Male,51,21,One year,55.97,1211.11,Yes,DSL,Yes,Yes,No,,
+CUST0804,Male,70,17,Month-to-month,97.42,1704.49,Yes,Fiber optic,Yes,Yes,Yes,Poor customer service,2024-09-22
+CUST0805,Female,61,23,Month-to-month,51.26,1135.03,No,DSL,No,Yes,No,,
+CUST0806,Female,52,7,Month-to-month,80.95,560.9,Yes,Fiber optic,Yes,Yes,Yes,Price too high,2024-07-29
+CUST0807,Female,69,38,One year,104.78,3850.31,Yes,Fiber optic,No,Yes,No,,
+CUST0808,Male,75,20,One year,83.43,1627.67,Yes,Fiber optic,Yes,Yes,No,,
+CUST0809,Female,39,15,One year,110.0,1610.94,Yes,Fiber optic,No,Yes,No,,
+CUST0810,Male,61,20,Month-to-month,118.85,2390.37,Yes,Fiber optic,Yes,No,No,,
+CUST0811,Male,41,12,Month-to-month,61.65,733.25,Yes,DSL,Yes,No,No,,
+CUST0812,Male,34,34,Two year,121.97,4332.65,Yes,Fiber optic,No,No,No,,
+CUST0813,Male,27,43,One year,67.18,2780.81,Yes,DSL,Yes,Yes,No,,
+CUST0814,Female,47,5,Month-to-month,61.82,323.74,Yes,DSL,Yes,Yes,Yes,Competitor offered better devices,2024-08-24
+CUST0815,Female,73,37,Two year,100.71,3625.9,Yes,Fiber optic,No,No,Yes,Poor customer service,2024-07-13
+CUST0816,Male,76,27,One year,107.04,2968.94,Yes,Fiber optic,No,Yes,Yes,Competitor made better offer,2024-08-24
+CUST0817,Male,63,38,One year,31.65,1183.33,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-10-25
+CUST0818,Male,40,25,One year,59.57,1436.1,Yes,DSL,No,Yes,No,,
+CUST0819,Female,49,55,Two year,32.0,1822.99,Yes,No,No internet service,No internet service,Yes,Don't know,2024-12-19
+CUST0820,Male,34,13,One year,99.43,1267.88,No,Fiber optic,No,Yes,No,,
+CUST0821,Male,67,15,Month-to-month,57.05,869.34,No,DSL,Yes,No,No,,
+CUST0822,Female,68,1,Month-to-month,69.81,70.27,Yes,DSL,No,No,No,,
+CUST0823,Female,34,41,Two year,123.55,5051.24,Yes,Fiber optic,Yes,Yes,No,,
+CUST0824,Male,31,14,Month-to-month,32.29,451.87,Yes,No,No internet service,No internet service,Yes,Poor customer service,2024-08-19
+CUST0825,Female,26,9,Month-to-month,65.4,602.27,Yes,DSL,No,Yes,No,,
+CUST0826,Female,57,23,Month-to-month,58.96,1300.18,Yes,DSL,Yes,Yes,No,,
+CUST0827,Male,19,12,Month-to-month,18.46,225.25,No,No,No internet service,No internet service,No,,
+CUST0828,Female,62,39,One year,57.3,2323.15,No,DSL,Yes,Yes,No,,
+CUST0829,Male,42,49,Two year,92.52,4333.0,Yes,Fiber optic,No,No,No,,
+CUST0830,Female,56,11,Month-to-month,104.94,1112.86,Yes,Fiber optic,No,No,Yes,Poor customer service,2024-11-30
+CUST0831,Male,26,22,Month-to-month,108.18,2431.52,Yes,Fiber optic,Yes,Yes,No,,
+CUST0832,Male,71,13,Month-to-month,101.22,1307.61,Yes,Fiber optic,Yes,Yes,No,,
+CUST0833,Male,39,57,Two year,33.04,1865.12,Yes,No,No internet service,No internet service,No,,
+CUST0834,Female,60,17,One year,93.78,1536.38,Yes,Fiber optic,Yes,Yes,No,,
+CUST0835,Male,63,21,Month-to-month,29.89,628.11,Yes,No,No internet service,No internet service,No,,
+CUST0836,Female,21,66,Two year,62.19,3951.25,Yes,DSL,No,No,No,,
+CUST0837,Male,43,61,Two year,111.47,6783.77,Yes,Fiber optic,No,Yes,No,,
+CUST0838,Male,75,29,Two year,110.72,3295.52,No,Fiber optic,No,No,No,,
+CUST0839,Female,46,42,Two year,30.49,,Yes,No,No internet service,No internet service,No,,
+CUST0840,Male,62,13,Month-to-month,33.39,433.24,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-07-28
+CUST0841,Male,51,28,One year,28.94,850.19,Yes,No,No internet service,No internet service,No,,
+CUST0842,Female,40,4,Month-to-month,69.81,284.45,Yes,DSL,Yes,Yes,Yes,Competitor offered better devices,2024-12-06
+CUST0843,Male,54,31,Two year,102.72,3293.02,Yes,Fiber optic,Yes,No,No,,
+CUST0844,Male,28,50,One year,29.84,1479.3,Yes,No,No internet service,No internet service,No,,
+CUST0845,Male,23,26,One year,34.63,924.5,Yes,No,No internet service,No internet service,No,,
+CUST0846,Male,35,37,One year,28.58,1008.87,Yes,No,No internet service,No internet service,No,,
+CUST0847,Female,38,19,Month-to-month,55.17,1008.7,No,DSL,Yes,Yes,Yes,Competitor made better offer,2024-12-09
+CUST0848,Female,59,16,Month-to-month,74.54,1157.23,Yes,DSL,No,No,Yes,Price too high,2024-11-05
+CUST0849,Male,53,40,Two year,34.39,1362.11,Yes,No,No internet service,No internet service,No,,
+CUST0850,Female,58,69,Two year,123.56,8820.41,Yes,Fiber optic,No,Yes,No,,
+CUST0851,Male,55,9,Month-to-month,95.44,845.75,Yes,Fiber optic,Yes,No,No,,
+CUST0852,Female,51,1,Month-to-month,104.47,106.09,Yes,Fiber optic,No,No,Yes,Don't know,2024-08-23
+CUST0853,Male,34,22,Month-to-month,32.63,732.89,Yes,No,No internet service,No internet service,Yes,Network reliability,2024-10-29
+CUST0854,Male,54,59,One year,62.11,3696.07,Yes,DSL,No,No,Yes,Attitude of support person,2024-07-18
+CUST0855,Male,42,38,Two year,76.33,2859.13,Yes,DSL,No,No,No,,
+CUST0856,Male,55,18,Month-to-month,22.4,406.31,No,No,No internet service,No internet service,Yes,Competitor offered better devices,2024-07-21
+CUST0857,Male,75,15,Month-to-month,34.47,508.89,Yes,No,No internet service,No internet service,No,,
+CUST0858,Male,29,34,Two year,55.01,1792.51,Yes,DSL,No,No,No,,
+CUST0859,Female,40,33,One year,66.2,2292.26,Yes,DSL,Yes,No,No,,
+CUST0860,Male,70,5,Month-to-month,58.69,282.51,Yes,DSL,No,No,Yes,Competitor made better offer,2024-10-12
+CUST0861,Female,59,41,One year,124.67,4892.88,Yes,Fiber optic,Yes,Yes,No,,
+CUST0862,Male,39,13,Month-to-month,60.2,812.22,Yes,DSL,Yes,Yes,No,,
+CUST0863,Female,38,17,Month-to-month,34.65,577.38,Yes,No,No internet service,No internet service,No,,
+CUST0864,Female,44,23,One year,84.78,1979.25,Yes,Fiber optic,No,No,No,,
+CUST0865,Female,74,43,One year,109.39,4623.34,Yes,Fiber optic,Yes,Yes,No,,
+CUST0866,Male,48,25,Two year,32.41,801.46,Yes,No,No internet service,No internet service,No,,
+CUST0867,Male,23,28,One year,91.55,2502.42,Yes,Fiber optic,No,No,No,,
+CUST0868,Female,44,15,One year,99.88,1474.68,Yes,Fiber optic,Yes,No,No,,
+CUST0869,Male,57,11,Month-to-month,124.52,1357.49,Yes,Fiber optic,No,No,Yes,Network reliability,2024-10-28
+CUST0870,Female,51,9,Month-to-month,57.06,524.86,No,DSL,Yes,No,No,,
+CUST0871,Male,29,19,Month-to-month,73.45,1397.16,Yes,DSL,No,Yes,Yes,Network reliability,2024-07-26
+CUST0872,Female,62,9,Month-to-month,57.02,535.94,Yes,DSL,Yes,Yes,No,,
+CUST0873,Female,74,27,One year,71.36,1838.45,Yes,DSL,Yes,No,No,,
+CUST0874,Male,70,71,Two year,95.74,6799.63,Yes,Fiber optic,No,No,No,,
+CUST0875,Female,24,11,Month-to-month,66.77,740.66,Yes,DSL,Yes,No,No,,
+CUST0876,Male,27,19,Month-to-month,80.61,1595.95,Yes,Fiber optic,No,Yes,Yes,Price too high,2024-07-31
+CUST0877,Female,62,59,Two year,112.25,6324.17,Yes,Fiber optic,Yes,Yes,No,,
+CUST0878,Female,34,1,Month-to-month,88.75,89.4,Yes,Fiber optic,Yes,Yes,No,,
+CUST0879,Male,43,32,One year,88.51,2932.48,Yes,Fiber optic,Yes,Yes,No,,
+CUST0880,Male,38,13,One year,99.01,1253.91,Yes,Fiber optic,No,Yes,No,,
+CUST0881,Male,45,28,One year,65.07,1890.52,Yes,DSL,Yes,No,No,,
+CUST0882,Female,79,9,Month-to-month,115.01,985.31,Yes,Fiber optic,No,No,No,,
+CUST0883,Male,75,2,Month-to-month,84.26,172.44,Yes,Fiber optic,Yes,Yes,No,,
+CUST0884,Female,63,44,One year,57.0,2616.62,Yes,DSL,Yes,No,No,,
+CUST0885,Female,19,57,One year,82.77,4792.05,Yes,Fiber optic,No,Yes,Yes,Attitude of support person,2024-08-20
+CUST0886,Male,77,11,Month-to-month,72.27,790.12,Yes,DSL,No,Yes,No,,
+CUST0887,Male,71,16,One year,102.31,1562.46,Yes,Fiber optic,Yes,No,No,,
+CUST0888,Female,60,17,Month-to-month,63.89,1131.76,Yes,DSL,No,Yes,No,,
+CUST0889,Female,18,30,One year,93.71,2802.95,Yes,Fiber optic,No,Yes,Yes,Don't know,2024-07-25
+CUST0890,Male,68,10,Month-to-month,88.46,842.94,Yes,Fiber optic,Yes,Yes,No,,
+CUST0891,Male,70,27,Two year,72.48,1994.11,No,Fiber optic,No,Yes,No,,
+CUST0892,Male,53,23,Month-to-month,59.84,1373.82,Yes,DSL,Yes,No,Yes,Don't know,2024-12-31
+CUST0893,Male,68,3,Month-to-month,80.24,231.68,Yes,Fiber optic,Yes,Yes,Yes,Price too high,2024-09-01
+CUST0894,Male,43,4,Month-to-month,123.0,477.94,Yes,Fiber optic,No,Yes,No,,
+CUST0895,Female,46,23,Month-to-month,109.29,2404.2,Yes,Fiber optic,Yes,No,Yes,Price too high,2024-12-06
+CUST0896,Female,38,64,Two year,102.38,6601.0,Yes,Fiber optic,No,No,Yes,Poor customer service,2024-11-02
+CUST0897,Female,28,26,Two year,91.57,2409.87,Yes,Fiber optic,Yes,No,No,,
+CUST0898,Female,57,14,Month-to-month,110.57,1548.87,No,Fiber optic,Yes,No,No,,
+CUST0899,Male,28,6,Month-to-month,32.56,201.55,Yes,No,No internet service,No internet service,No,,
+CUST0900,Male,53,44,One year,62.71,2858.85,Yes,DSL,Yes,No,Yes,Network reliability,2024-09-26
+CUST0901,Male,66,36,Two year,28.98,1055.34,Yes,No,No internet service,No internet service,No,,
+CUST0902,Female,76,24,One year,86.22,1968.46,Yes,Fiber optic,No,No,No,,
+CUST0903,Female,56,23,Month-to-month,119.5,2802.16,Yes,Fiber optic,Yes,Yes,No,,
+CUST0904,Male,57,3,Month-to-month,34.53,102.74,Yes,No,No internet service,No internet service,No,,
+CUST0905,Male,52,56,One year,76.53,4313.78,Yes,DSL,No,No,Yes,Poor customer service,2024-09-26
+CUST0906,Female,71,5,Month-to-month,34.67,175.93,Yes,No,No internet service,No internet service,Yes,Don't know,2024-07-23
+CUST0907,Female,51,16,One year,68.92,1086.21,Yes,DSL,Yes,No,No,,
+CUST0908,Male,72,4,Month-to-month,69.04,287.68,Yes,DSL,No,No,Yes,Price too high,2024-07-12
+CUST0909,Male,64,37,One year,92.84,3309.35,Yes,Fiber optic,No,Yes,Yes,Competitor made better offer,2024-10-20
+CUST0910,Female,41,3,Month-to-month,61.44,187.48,No,DSL,No,Yes,No,,
+CUST0911,Male,71,25,One year,92.33,2193.84,Yes,Fiber optic,No,Yes,No,,
+CUST0912,Male,39,2,Month-to-month,47.98,100.03,No,DSL,Yes,Yes,Yes,Attitude of support person,2024-07-24
+CUST0913,Male,22,43,One year,88.81,3670.85,Yes,Fiber optic,Yes,Yes,No,,
+CUST0914,Female,73,5,Month-to-month,82.75,396.99,Yes,Fiber optic,Yes,Yes,Yes,Competitor made better offer,2024-10-23
+CUST0915,Female,50,28,One year,117.33,3230.38,Yes,Fiber optic,No,No,No,,
+CUST0916,Female,75,29,One year,100.92,2889.68,Yes,Fiber optic,No,No,No,,
+CUST0917,Female,53,56,One year,90.49,4922.66,Yes,Fiber optic,Yes,Yes,No,,
+CUST0918,Female,64,43,One year,85.1,3690.45,Yes,Fiber optic,Yes,Yes,No,,
+CUST0919,Female,37,23,One year,61.87,1414.89,Yes,DSL,No,No,No,,
+CUST0920,Female,36,57,Two year,86.66,,Yes,Fiber optic,No,No,No,,
+CUST0921,Male,52,4,Month-to-month,121.25,476.25,Yes,Fiber optic,Yes,Yes,No,,
+CUST0922,Male,69,71,Two year,110.42,8083.19,Yes,Fiber optic,No,Yes,No,,
+CUST0923,Male,60,12,Month-to-month,102.88,1257.98,No,Fiber optic,No,No,Yes,Competitor offered better devices,2024-12-26
+CUST0924,Male,34,9,Month-to-month,33.07,304.32,Yes,No,No internet service,No internet service,No,,
+CUST0925,Male,79,18,Month-to-month,33.67,618.07,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-12-07
+CUST0926,Male,76,5,Month-to-month,74.66,366.24,Yes,DSL,Yes,No,Yes,Poor customer service,2024-08-08
+CUST0927,Male,62,50,One year,63.41,3043.57,Yes,DSL,No,Yes,No,,
+CUST0928,Female,60,54,One year,76.02,4011.68,Yes,DSL,No,Yes,No,,
+CUST0929,Female,51,27,One year,113.5,3166.18,Yes,Fiber optic,No,No,No,,
+CUST0930,Male,26,13,Month-to-month,31.96,435.44,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-11-29
+CUST0931,Male,43,22,Month-to-month,99.82,2194.69,Yes,Fiber optic,No,Yes,No,,
+CUST0932,Female,19,7,Month-to-month,103.73,690.51,Yes,Fiber optic,Yes,Yes,No,,
+CUST0933,Male,70,5,Month-to-month,94.7,456.46,Yes,Fiber optic,Yes,Yes,Yes,Poor customer service,2024-07-30
+CUST0934,Male,26,22,Month-to-month,24.82,536.32,No,No,No internet service,No internet service,Yes,Poor customer service,2024-08-26
+CUST0935,Female,26,5,Month-to-month,67.86,341.97,Yes,DSL,No,Yes,Yes,Competitor offered better devices,2024-12-30
+CUST0936,Male,57,18,Month-to-month,75.31,1297.98,Yes,DSL,No,Yes,No,,
+CUST0937,Female,34,28,One year,73.03,2135.5,Yes,DSL,Yes,Yes,No,,
+CUST0938,Male,18,18,One year,93.46,1659.58,Yes,Fiber optic,Yes,Yes,No,,
+CUST0939,Female,42,29,Two year,62.32,1881.85,No,DSL,No,Yes,No,,
+CUST0940,Female,78,38,Two year,94.5,3691.74,Yes,Fiber optic,No,Yes,No,,
+CUST0941,Female,60,29,One year,113.72,3382.12,Yes,Fiber optic,No,No,No,,
+CUST0942,Male,57,13,Month-to-month,59.31,779.26,Yes,DSL,No,Yes,No,,
+CUST0943,Female,59,26,One year,114.56,3016.32,Yes,Fiber optic,Yes,No,No,,
+CUST0944,Male,42,49,One year,113.23,5624.84,Yes,Fiber optic,Yes,No,Yes,Attitude of support person,2024-11-26
+CUST0945,Male,56,11,Month-to-month,32.75,364.89,Yes,No,No internet service,No internet service,Yes,Competitor made better offer,2024-07-21
+CUST0946,Male,52,1,Month-to-month,73.77,74.17,Yes,DSL,Yes,Yes,No,,
+CUST0947,Male,20,37,Two year,95.31,3698.0,Yes,Fiber optic,Yes,No,Yes,Network reliability,2024-09-28
+CUST0948,Female,67,9,Month-to-month,50.93,469.02,No,DSL,No,Yes,Yes,Poor customer service,2024-07-20
+CUST0949,Female,54,34,One year,65.65,2293.92,Yes,DSL,No,No,No,,
+CUST0950,Male,61,30,One year,69.18,2152.7,Yes,DSL,No,No,No,,
+CUST0951,Male,61,6,Month-to-month,78.34,456.67,Yes,DSL,Yes,Yes,No,,
+CUST0952,Female,68,8,Month-to-month,64.63,495.52,Yes,DSL,Yes,No,Yes,Poor customer service,2024-10-23
+CUST0953,Male,47,21,Month-to-month,19.46,407.96,No,No,No internet service,No internet service,No,,
+CUST0954,Female,55,14,Month-to-month,58.34,817.91,Yes,DSL,No,Yes,No,,
+CUST0955,Male,51,19,Month-to-month,87.71,1721.35,Yes,Fiber optic,Yes,No,No,,
+CUST0956,Male,29,25,Two year,28.9,718.44,Yes,No,No internet service,No internet service,No,,
+CUST0957,Female,36,4,Month-to-month,61.18,246.45,Yes,DSL,No,No,No,,
+CUST0958,Male,54,22,Month-to-month,32.22,710.76,Yes,No,No internet service,No internet service,No,,
+CUST0959,Female,61,16,Month-to-month,97.62,1489.79,Yes,Fiber optic,No,Yes,No,,
+CUST0960,Male,76,30,Two year,97.01,2943.83,Yes,Fiber optic,No,No,Yes,Poor customer service,2024-10-06
+CUST0961,Male,76,22,Month-to-month,94.6,2149.47,Yes,Fiber optic,Yes,Yes,Yes,Poor customer service,2024-09-22
+CUST0962,Male,66,7,Month-to-month,121.97,824.55,Yes,Fiber optic,Yes,Yes,No,,
+CUST0963,Female,78,59,Two year,28.09,1672.94,Yes,No,No internet service,No internet service,No,,
+CUST0964,Male,34,69,Two year,92.51,6442.94,No,Fiber optic,No,No,No,,
+CUST0965,Male,27,19,Month-to-month,70.09,1286.99,Yes,DSL,Yes,No,No,,
+CUST0966,Male,74,64,Two year,59.11,3640.59,Yes,DSL,No,No,No,,
+CUST0967,Male,72,1,Month-to-month,79.66,83.48,Yes,DSL,No,Yes,Yes,Don't know,2024-10-24
+CUST0968,Female,66,5,Month-to-month,29.73,147.07,Yes,No,No internet service,No internet service,Yes,Attitude of support person,2024-09-24
+CUST0969,Female,64,7,Month-to-month,65.79,447.98,Yes,DSL,No,No,Yes,Price too high,2024-11-03
+CUST0970,Male,29,2,Month-to-month,24.34,47.08,No,No,No internet service,No internet service,Yes,Competitor made better offer,2024-08-09
+CUST0971,Female,79,45,One year,100.32,4590.06,Yes,Fiber optic,No,No,No,,
+CUST0972,Male,33,3,Month-to-month,64.81,196.56,Yes,DSL,No,Yes,Yes,Don't know,2024-09-09
+CUST0973,Male,41,4,Month-to-month,71.55,290.31,Yes,DSL,Yes,Yes,Yes,Network reliability,2024-10-31
+CUST0974,Male,36,28,One year,90.65,2433.63,Yes,Fiber optic,Yes,No,No,,
+CUST0975,Female,25,54,One year,107.65,6041.87,Yes,Fiber optic,Yes,Yes,No,,
+CUST0976,Female,48,16,Month-to-month,57.96,917.09,Yes,DSL,Yes,No,No,,
+CUST0977,Female,38,18,One year,102.3,1807.03,Yes,Fiber optic,No,Yes,No,,
+CUST0978,Female,34,16,Month-to-month,119.69,1907.83,Yes,Fiber optic,No,Yes,Yes,Poor customer service,2024-10-13
+CUST0979,Female,40,53,One year,62.91,3297.58,Yes,DSL,No,Yes,No,,
+CUST0980,Female,54,21,One year,93.4,2032.71,Yes,Fiber optic,No,Yes,No,,
+CUST0981,Female,71,66,Two year,107.49,7398.87,Yes,Fiber optic,No,Yes,No,,
+CUST0982,Female,33,18,Month-to-month,97.49,1720.33,Yes,Fiber optic,No,No,Yes,Competitor made better offer,2024-08-15
+CUST0983,Female,23,17,Month-to-month,102.24,1801.33,Yes,Fiber optic,Yes,Yes,No,,
+CUST0984,Male,25,15,Month-to-month,98.01,1511.54,Yes,Fiber optic,Yes,Yes,Yes,Competitor offered better devices,2024-07-30
+CUST0985,Female,42,23,Month-to-month,67.08,1609.31,Yes,DSL,Yes,No,No,,
+CUST0986,Female,35,6,Month-to-month,119.82,700.64,Yes,Fiber optic,Yes,Yes,No,,
+CUST0987,Female,42,42,Two year,56.1,2374.33,Yes,DSL,Yes,Yes,No,,
+CUST0988,Female,29,16,Month-to-month,102.15,1597.55,Yes,Fiber optic,Yes,No,No,,
+CUST0989,Female,32,6,Month-to-month,110.59,685.04,Yes,Fiber optic,Yes,Yes,No,,
+CUST0990,Female,76,20,One year,85.12,1618.19,Yes,Fiber optic,Yes,Yes,No,,
+CUST0991,Female,43,1,Month-to-month,71.69,72.15,No,Fiber optic,Yes,No,Yes,Competitor offered better devices,2024-11-26
+CUST0992,Female,58,14,One year,34.04,468.9,Yes,No,No internet service,No internet service,No,,
+CUST0993,Female,62,1,Month-to-month,63.1,61.98,Yes,DSL,No,Yes,No,,
+CUST0994,Female,43,15,Month-to-month,67.74,1030.82,Yes,DSL,Yes,Yes,No,,
+CUST0995,Female,64,6,Month-to-month,28.34,176.02,Yes,No,No internet service,No internet service,No,,
+CUST0996,Male,49,22,Month-to-month,29.15,648.3,Yes,No,No internet service,No internet service,Yes,Don't know,2024-07-12
+CUST0997,Male,27,53,Two year,33.53,1839.85,Yes,No,No internet service,No internet service,No,,
+CUST0998,Female,33,2,Month-to-month,28.44,55.54,Yes,No,No internet service,No internet service,No,,
+CUST0999,Female,24,6,Month-to-month,31.71,190.63,Yes,No,No internet service,No internet service,No,,
+CUST1000,Male,34,7,Month-to-month,76.97,536.12,Yes,DSL,No,No,Yes,Don't know,2024-07-18
