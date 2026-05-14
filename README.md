@@ -161,5 +161,4 @@ Add these impactful, metric-driven bullet points directly to your professional r
 ### Q10: How would you deploy this pipeline into production?
 **Answer:** We would containerize the code using **Docker**, schedule automated daily or weekly inference runs using an orchestrator like **Airflow** or **GitHub Actions**, read incoming batch data securely from Supabase via environment variables, and stream output risk scores/dashboards directly to a BI tool or CRM to trigger automated customer retention workflows.
 
----
-*Built with professional quality and best practices by Antigravity.*
+
